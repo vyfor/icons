@@ -1,0 +1,54 @@
+This file provides a list of the icons included in this repository, given that a link to the license or attribution is required. Should you notice any inaccuracies or omissions in the license or attribution information, please do not hesitate to inform me.
+
+- AutoHotkey: https://autohotkey.com/
+- Astro: https://astro.build/
+- AstroNvim: https://astronvim.com/
+- C++: https://isocpp.org/
+- C#: https://dotnet.microsoft.com/en-us/languages/csharp
+- Cargo: https://github.com/rust-lang/cargo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Clojure: https://clojure.org/ [EPL-1.0](https://opensource.org/license/epl-1-0)
+- Crystal: https://crystal-lang.org/
+- D: https://dlang.org/
+- Dart: https://dart.dev/
+- Docker: https://docker.com/
+- Elixir: https://elixir-lang.org/
+- Erlang: https://erlang.org/
+- F#: https://fsharp.org/
+- Git: https://git-scm.com/
+- Go: https://go.dev/ [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- GameMaker: https://gamemaker.io/
+- Gradle: https://gradle.com/
+- Groovy: https://groovy-lang.org/
+- Haskell: https://haskell.org/
+- Julia: https://julialang.org/
+- Kotlin: https://kotlinlang.org/
+- Latex: https://latex-project.org/
+- Lisp: https://common-lisp.net/
+- Lua: https://lua.org/
+- LunarVim: https://lunarvim.org/
+- Maven: https://maven.apache.org/
+- Neovim: https://neovim.io/
+- Nim: https://nim-lang.org/
+- Nix: https://nixos.org/ [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- NvChad: https://nvchad.com/
+- OCaml: https://ocaml.org/
+- Perl: https://perl.org/
+- Phoenix: https://phoenixframework.org/
+- PostCSS: https://postcss.org/
+- Python: https://python.org/
+- Quarto: https://quarto.org/
+- R: https://www.r-project.org/ [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- React: https://react.dev/
+- Ruby: https://ruby-lang.org/
+- Rust: https://rust-lang.org/ [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/)
+- Scala: https://scala-lang.org/
+- Sass: https://sass-lang.com/ [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+- Svelte: https://svelte.dev/
+- Swift: https://swift.org/
+- TOML: https://toml.io/
+- TypeScript: https://typescriptlang.org/
+- V: https://vlang.io/
+- Vim: https://vim.org/
+- Vue: https://vuejs.org/ [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- YAML: https://yaml.org/
+- Zig: https://ziglang.org/ [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

@@ -4,9 +4,9 @@ This repository contains the assets currently used in my project, [cord.nvim](ht
 
 #### Licensing Information:
 - **Base Icons**:  
-  The base icons are sourced from third-party creators and are subject to their respective licenses.
+  The base icons are sourced from third-party creators and are subject to their respective licenses. For detailed information, please refer to the [LICENSE.md](LICENSE.md) file.
   
 - **Modifications**:  
-  The modifications to these assets are licensed under the same terms as the original assets. I kindly request that you mention this repository when using any of my modified assets.
+  The modifications to these assets are licensed under the same terms as the original assets. You must mention this repository when using any of my modified assets.
 
 If you have any questions or inquiries regarding the these assets and their licensing, feel free to reach out.
