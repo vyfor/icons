@@ -52,4 +52,5 @@ This file provides a list of the icons included in this repository, given that a
 - Vue: https://vuejs.org/ [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - YAML: https://yaml.org/
 - Zig: https://ziglang.org/ [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- [docs/default.png](icons/flat/docs/default.png): https://svgrepo.com/svg/491853/book-library-ui [Ali Rohman Hakim](https://www.svgrepo.com/author/Ali%20Rohman%20Hakim/) [CC BY](https://creativecommons.org/licenses/by/4.0/)
+- [book.png](icons/flat/book.png): https://svgrepo.com/svg/491853/book-library-ui [Ali Rohman Hakim](https://www.svgrepo.com/author/Ali%20Rohman%20Hakim/) [CC BY](https://creativecommons.org/licenses/by/4.0/)
+
