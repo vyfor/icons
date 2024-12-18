@@ -52,5 +52,16 @@ This file provides a list of the icons included in this repository, given that a
 - Vue: https://vuejs.org/ [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - YAML: https://yaml.org/
 - Zig: https://ziglang.org/ [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- [book.png](icons/flat/book.png): https://svgrepo.com/svg/491853/book-library-ui [Ali Rohman Hakim](https://www.svgrepo.com/author/Ali%20Rohman%20Hakim/) [CC BY](https://creativecommons.org/licenses/by/4.0/)
-
+- book.png: https://svgrepo.com/svg/491853/book-library-ui [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
+- c.png: https://www.svgrepo.com/svg/521335/c-16 [MIT License](https://opensource.org/licenses/MIT)
+- cpp.png: https://www.svgrepo.com/svg/521339/c-plusplus-16 [MIT License](https://opensource.org/licenses/MIT)
+- css.png: https://www.svgrepo.com/svg/508795/css3-02 [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
+- csharp.png: https://www.svgrepo.com/svg/521273/c-sharp-16 [MIT License](https://opensource.org/licenses/MIT)
+- sql.png: https://www.svgrepo.com/svg/514101/database [MIT License](https://opensource.org/licenses/MIT)
+- elixir.png: https://github.com/file-icons/atom [MIT License](https://opensource.org/licenses/MIT)
+- groovy.png: https://www.svgrepo.com/svg/508889/pl-groovy-02 [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
+- html.png: https://www.svgrepo.com/svg/508839/html5-02 [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
+- java.png: https://www.svgrepo.com/svg/521289/java-16 [MIT License](https://opensource.org/licenses/MIT)
+- scala.png: https://github.com/vscode-icons/vscode-icons [MIT License](https://opensource.org/licenses/MIT)
+- ruby.png: https://www.svgrepo.com/svg/508940/ruby [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
+- xml.png: https://github.com/vscode-icons/vscode-icons [MIT License](https://opensource.org/licenses/MIT)
