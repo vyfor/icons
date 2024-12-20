@@ -57,6 +57,7 @@ This file provides a list of the icons included in this repository, given that a
 - cpp.png: https://www.svgrepo.com/svg/521339/c-plusplus-16 [MIT License](https://opensource.org/licenses/MIT)
 - css.png: https://www.svgrepo.com/svg/508795/css3-02 [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
 - csharp.png: https://www.svgrepo.com/svg/521273/c-sharp-16 [MIT License](https://opensource.org/licenses/MIT)
+- folder.png: https://www.svgrepo.com/svg/382701/folder-archive-documents-open [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
 - sql.png: https://www.svgrepo.com/svg/514101/database [MIT License](https://opensource.org/licenses/MIT)
 - elixir.png: https://github.com/file-icons/atom [MIT License](https://opensource.org/licenses/MIT)
 - groovy.png: https://www.svgrepo.com/svg/508889/pl-groovy-02 [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
