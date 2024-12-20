@@ -44,7 +44,7 @@ jobs:
             echo -n "| ${icon_name} " >> icons_table.md
 
             for theme in "${themes[@]}"; do
-              echo -n "| <img src='${theme}/${icon_name}' alt='${icon_name}' width='64' height='64' /> " >> icons_table.md
+              echo -n "| <img src='${theme}/${icon_name}' alt='${icon_name}' width='128' height='128' /> " >> icons_table.md
             done
             echo "|" >> icons_table.md
           done
