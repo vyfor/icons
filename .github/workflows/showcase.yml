@@ -23,7 +23,7 @@ jobs:
           theme_names=($(basename -a "${themes[@]}"))
 
           echo "Generating Markdown Table..."
-          echo "<details id="showcase"><summary>Showcase</summary>" > icons_table.md
+          echo "<details id=\"showcase\"><summary>Showcase</summary>" > icons_table.md
           echo "" >> icons_table.md
           
           echo -n "| Icon " >> icons_table.md
@@ -53,9 +53,9 @@ jobs:
 
       - name: Update README.md
         run: |
-          if grep -q "<details id="showcase"><summary>Showcase</summary>" README.md; then
+          if grep -q "<details id=\"showcase\"><summary>Showcase</summary>" README.md; then
             echo "Updating existing showcase..."
-            sed -i '/<details id="showcase"><summary>Showcase<\/summary>/,/<\/details>/c\REPLACEMENT_MARKER' README.md
+            sed -i '/<details id=\"showcase\"><summary>Showcase<\/summary>/,/<\/details>/c\REPLACEMENT_MARKER' README.md
             sed -i '/REPLACEMENT_MARKER/r icons_table.md' README.md
             sed -i '/REPLACEMENT_MARKER/d' README.md
           else
