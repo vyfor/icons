@@ -13,88 +13,86 @@ If you have any questions or inquiries regarding the these assets and their lice
 
 <details><summary>Showcase</summary>
 
-<details><summary>Showcase</summary>
-
 | Icon | onyx | pastel |
 |------|---------|---------|
-| ahk.png | ![ahk.png](icons/onyx/ahk.png) | ![ahk.png](icons/pastel/ahk.png) |
-| assembly.png | ![assembly.png](icons/onyx/assembly.png) | ![assembly.png](icons/pastel/assembly.png) |
-| astro.png | ![astro.png](icons/onyx/astro.png) | ![astro.png](icons/pastel/astro.png) |
-| astronvim.png | ![astronvim.png](icons/onyx/astronvim.png) | ![astronvim.png](icons/pastel/astronvim.png) |
-| book.png | ![book.png](icons/onyx/book.png) | ![book.png](icons/pastel/book.png) |
-| c.png | ![c.png](icons/onyx/c.png) | ![c.png](icons/pastel/c.png) |
-| cargo.png | ![cargo.png](icons/onyx/cargo.png) | ![cargo.png](icons/pastel/cargo.png) |
-| clojure.png | ![clojure.png](icons/onyx/clojure.png) | ![clojure.png](icons/pastel/clojure.png) |
-| cpp.png | ![cpp.png](icons/onyx/cpp.png) | ![cpp.png](icons/pastel/cpp.png) |
-| crystal.png | ![crystal.png](icons/onyx/crystal.png) | ![crystal.png](icons/pastel/crystal.png) |
-| csharp.png | ![csharp.png](icons/onyx/csharp.png) | ![csharp.png](icons/pastel/csharp.png) |
-| css.png | ![css.png](icons/onyx/css.png) | ![css.png](icons/pastel/css.png) |
-| d.png | ![d.png](icons/onyx/d.png) | ![d.png](icons/pastel/d.png) |
-| dart.png | ![dart.png](icons/onyx/dart.png) | ![dart.png](icons/pastel/dart.png) |
-| dashboard.png | ![dashboard.png](icons/onyx/dashboard.png) | ![dashboard.png](icons/pastel/dashboard.png) |
-| docker.png | ![docker.png](icons/onyx/docker.png) | ![docker.png](icons/pastel/docker.png) |
-| elixir.png | ![elixir.png](icons/onyx/elixir.png) | ![elixir.png](icons/pastel/elixir.png) |
-| erlang.png | ![erlang.png](icons/onyx/erlang.png) | ![erlang.png](icons/pastel/erlang.png) |
-| folder.png | ![folder.png](icons/onyx/folder.png) | ![folder.png](icons/pastel/folder.png) |
-| fsharp.png | ![fsharp.png](icons/onyx/fsharp.png) | ![fsharp.png](icons/pastel/fsharp.png) |
-| git.png | ![git.png](icons/onyx/git.png) | ![git.png](icons/pastel/git.png) |
-| gml.png | ![gml.png](icons/onyx/gml.png) | ![gml.png](icons/pastel/gml.png) |
-| go.png | ![go.png](icons/onyx/go.png) | ![go.png](icons/pastel/go.png) |
-| gradle.png | ![gradle.png](icons/onyx/gradle.png) | ![gradle.png](icons/pastel/gradle.png) |
-| groovy.png | ![groovy.png](icons/onyx/groovy.png) | ![groovy.png](icons/pastel/groovy.png) |
-| haskell.png | ![haskell.png](icons/onyx/haskell.png) | ![haskell.png](icons/pastel/haskell.png) |
-| haxe.png | ![haxe.png](icons/onyx/haxe.png) | ![haxe.png](icons/pastel/haxe.png) |
-| html.png | ![html.png](icons/onyx/html.png) | ![html.png](icons/pastel/html.png) |
-| idle.png | ![idle.png](icons/onyx/idle.png) | ![idle.png](icons/pastel/idle.png) |
-| java.png | ![java.png](icons/onyx/java.png) | ![java.png](icons/pastel/java.png) |
-| javascript.png | ![javascript.png](icons/onyx/javascript.png) | ![javascript.png](icons/pastel/javascript.png) |
-| json.png | ![json.png](icons/onyx/json.png) | ![json.png](icons/pastel/json.png) |
-| julia.png | ![julia.png](icons/onyx/julia.png) | ![julia.png](icons/pastel/julia.png) |
-| keyboard.png | ![keyboard.png](icons/onyx/keyboard.png) | ![keyboard.png](icons/pastel/keyboard.png) |
-| kotlin.png | ![kotlin.png](icons/onyx/kotlin.png) | ![kotlin.png](icons/pastel/kotlin.png) |
-| latex.png | ![latex.png](icons/onyx/latex.png) | ![latex.png](icons/pastel/latex.png) |
-| license.png | ![license.png](icons/onyx/license.png) | ![license.png](icons/pastel/license.png) |
-| lisp.png | ![lisp.png](icons/onyx/lisp.png) | ![lisp.png](icons/pastel/lisp.png) |
-| lsp.png | ![lsp.png](icons/onyx/lsp.png) | ![lsp.png](icons/pastel/lsp.png) |
-| lua.png | ![lua.png](icons/onyx/lua.png) | ![lua.png](icons/pastel/lua.png) |
-| lunarvim.png | ![lunarvim.png](icons/onyx/lunarvim.png) | ![lunarvim.png](icons/pastel/lunarvim.png) |
-| markdown.png | ![markdown.png](icons/onyx/markdown.png) | ![markdown.png](icons/pastel/markdown.png) |
-| maven.png | ![maven.png](icons/onyx/maven.png) | ![maven.png](icons/pastel/maven.png) |
-| neovim.png | ![neovim.png](icons/onyx/neovim.png) | ![neovim.png](icons/pastel/neovim.png) |
-| nim.png | ![nim.png](icons/onyx/nim.png) | ![nim.png](icons/pastel/nim.png) |
-| nix.png | ![nix.png](icons/onyx/nix.png) | ![nix.png](icons/pastel/nix.png) |
-| nvchad.png | ![nvchad.png](icons/onyx/nvchad.png) | ![nvchad.png](icons/pastel/nvchad.png) |
-| nvidia.png | ![nvidia.png](icons/onyx/nvidia.png) | ![nvidia.png](icons/pastel/nvidia.png) |
-| ocaml.png | ![ocaml.png](icons/onyx/ocaml.png) | ![ocaml.png](icons/pastel/ocaml.png) |
-| pascal.png | ![pascal.png](icons/onyx/pascal.png) | ![pascal.png](icons/pastel/pascal.png) |
-| perl.png | ![perl.png](icons/onyx/perl.png) | ![perl.png](icons/pastel/perl.png) |
-| phoenix.png | ![phoenix.png](icons/onyx/phoenix.png) | ![phoenix.png](icons/pastel/phoenix.png) |
-| php.png | ![php.png](icons/onyx/php.png) | ![php.png](icons/pastel/php.png) |
-| plugin.png | ![plugin.png](icons/onyx/plugin.png) | ![plugin.png](icons/pastel/plugin.png) |
-| postcss.png | ![postcss.png](icons/onyx/postcss.png) | ![postcss.png](icons/pastel/postcss.png) |
-| powershell.png | ![powershell.png](icons/onyx/powershell.png) | ![powershell.png](icons/pastel/powershell.png) |
-| python.png | ![python.png](icons/onyx/python.png) | ![python.png](icons/pastel/python.png) |
-| quarto.png | ![quarto.png](icons/onyx/quarto.png) | ![quarto.png](icons/pastel/quarto.png) |
-| r.png | ![r.png](icons/onyx/r.png) | ![r.png](icons/pastel/r.png) |
-| react.png | ![react.png](icons/onyx/react.png) | ![react.png](icons/pastel/react.png) |
-| ruby.png | ![ruby.png](icons/onyx/ruby.png) | ![ruby.png](icons/pastel/ruby.png) |
-| rust.png | ![rust.png](icons/onyx/rust.png) | ![rust.png](icons/pastel/rust.png) |
-| scala.png | ![scala.png](icons/onyx/scala.png) | ![scala.png](icons/pastel/scala.png) |
-| scss.png | ![scss.png](icons/onyx/scss.png) | ![scss.png](icons/pastel/scss.png) |
-| shell.png | ![shell.png](icons/onyx/shell.png) | ![shell.png](icons/pastel/shell.png) |
-| sql.png | ![sql.png](icons/onyx/sql.png) | ![sql.png](icons/pastel/sql.png) |
-| svelte.png | ![svelte.png](icons/onyx/svelte.png) | ![svelte.png](icons/pastel/svelte.png) |
-| swift.png | ![swift.png](icons/onyx/swift.png) | ![swift.png](icons/pastel/swift.png) |
-| telescope.png | ![telescope.png](icons/onyx/telescope.png) | ![telescope.png](icons/pastel/telescope.png) |
-| text.png | ![text.png](icons/onyx/text.png) | ![text.png](icons/pastel/text.png) |
-| toml.png | ![toml.png](icons/onyx/toml.png) | ![toml.png](icons/pastel/toml.png) |
-| typescript.png | ![typescript.png](icons/onyx/typescript.png) | ![typescript.png](icons/pastel/typescript.png) |
-| v.png | ![v.png](icons/onyx/v.png) | ![v.png](icons/pastel/v.png) |
-| vim.png | ![vim.png](icons/onyx/vim.png) | ![vim.png](icons/pastel/vim.png) |
-| viml.png | ![viml.png](icons/onyx/viml.png) | ![viml.png](icons/pastel/viml.png) |
-| vue.png | ![vue.png](icons/onyx/vue.png) | ![vue.png](icons/pastel/vue.png) |
-| xml.png | ![xml.png](icons/onyx/xml.png) | ![xml.png](icons/pastel/xml.png) |
-| yaml.png | ![yaml.png](icons/onyx/yaml.png) | ![yaml.png](icons/pastel/yaml.png) |
-| zig.png | ![zig.png](icons/onyx/zig.png) | ![zig.png](icons/pastel/zig.png) |
+| ahk.png | <img src='icons/onyx/ahk.png' alt='ahk.png' width='64' height='64' /> | <img src='icons/pastel/ahk.png' alt='ahk.png' width='64' height='64' /> |
+| assembly.png | <img src='icons/onyx/assembly.png' alt='assembly.png' width='64' height='64' /> | <img src='icons/pastel/assembly.png' alt='assembly.png' width='64' height='64' /> |
+| astro.png | <img src='icons/onyx/astro.png' alt='astro.png' width='64' height='64' /> | <img src='icons/pastel/astro.png' alt='astro.png' width='64' height='64' /> |
+| astronvim.png | <img src='icons/onyx/astronvim.png' alt='astronvim.png' width='64' height='64' /> | <img src='icons/pastel/astronvim.png' alt='astronvim.png' width='64' height='64' /> |
+| book.png | <img src='icons/onyx/book.png' alt='book.png' width='64' height='64' /> | <img src='icons/pastel/book.png' alt='book.png' width='64' height='64' /> |
+| c.png | <img src='icons/onyx/c.png' alt='c.png' width='64' height='64' /> | <img src='icons/pastel/c.png' alt='c.png' width='64' height='64' /> |
+| cargo.png | <img src='icons/onyx/cargo.png' alt='cargo.png' width='64' height='64' /> | <img src='icons/pastel/cargo.png' alt='cargo.png' width='64' height='64' /> |
+| clojure.png | <img src='icons/onyx/clojure.png' alt='clojure.png' width='64' height='64' /> | <img src='icons/pastel/clojure.png' alt='clojure.png' width='64' height='64' /> |
+| cpp.png | <img src='icons/onyx/cpp.png' alt='cpp.png' width='64' height='64' /> | <img src='icons/pastel/cpp.png' alt='cpp.png' width='64' height='64' /> |
+| crystal.png | <img src='icons/onyx/crystal.png' alt='crystal.png' width='64' height='64' /> | <img src='icons/pastel/crystal.png' alt='crystal.png' width='64' height='64' /> |
+| csharp.png | <img src='icons/onyx/csharp.png' alt='csharp.png' width='64' height='64' /> | <img src='icons/pastel/csharp.png' alt='csharp.png' width='64' height='64' /> |
+| css.png | <img src='icons/onyx/css.png' alt='css.png' width='64' height='64' /> | <img src='icons/pastel/css.png' alt='css.png' width='64' height='64' /> |
+| d.png | <img src='icons/onyx/d.png' alt='d.png' width='64' height='64' /> | <img src='icons/pastel/d.png' alt='d.png' width='64' height='64' /> |
+| dart.png | <img src='icons/onyx/dart.png' alt='dart.png' width='64' height='64' /> | <img src='icons/pastel/dart.png' alt='dart.png' width='64' height='64' /> |
+| dashboard.png | <img src='icons/onyx/dashboard.png' alt='dashboard.png' width='64' height='64' /> | <img src='icons/pastel/dashboard.png' alt='dashboard.png' width='64' height='64' /> |
+| docker.png | <img src='icons/onyx/docker.png' alt='docker.png' width='64' height='64' /> | <img src='icons/pastel/docker.png' alt='docker.png' width='64' height='64' /> |
+| elixir.png | <img src='icons/onyx/elixir.png' alt='elixir.png' width='64' height='64' /> | <img src='icons/pastel/elixir.png' alt='elixir.png' width='64' height='64' /> |
+| erlang.png | <img src='icons/onyx/erlang.png' alt='erlang.png' width='64' height='64' /> | <img src='icons/pastel/erlang.png' alt='erlang.png' width='64' height='64' /> |
+| folder.png | <img src='icons/onyx/folder.png' alt='folder.png' width='64' height='64' /> | <img src='icons/pastel/folder.png' alt='folder.png' width='64' height='64' /> |
+| fsharp.png | <img src='icons/onyx/fsharp.png' alt='fsharp.png' width='64' height='64' /> | <img src='icons/pastel/fsharp.png' alt='fsharp.png' width='64' height='64' /> |
+| git.png | <img src='icons/onyx/git.png' alt='git.png' width='64' height='64' /> | <img src='icons/pastel/git.png' alt='git.png' width='64' height='64' /> |
+| gml.png | <img src='icons/onyx/gml.png' alt='gml.png' width='64' height='64' /> | <img src='icons/pastel/gml.png' alt='gml.png' width='64' height='64' /> |
+| go.png | <img src='icons/onyx/go.png' alt='go.png' width='64' height='64' /> | <img src='icons/pastel/go.png' alt='go.png' width='64' height='64' /> |
+| gradle.png | <img src='icons/onyx/gradle.png' alt='gradle.png' width='64' height='64' /> | <img src='icons/pastel/gradle.png' alt='gradle.png' width='64' height='64' /> |
+| groovy.png | <img src='icons/onyx/groovy.png' alt='groovy.png' width='64' height='64' /> | <img src='icons/pastel/groovy.png' alt='groovy.png' width='64' height='64' /> |
+| haskell.png | <img src='icons/onyx/haskell.png' alt='haskell.png' width='64' height='64' /> | <img src='icons/pastel/haskell.png' alt='haskell.png' width='64' height='64' /> |
+| haxe.png | <img src='icons/onyx/haxe.png' alt='haxe.png' width='64' height='64' /> | <img src='icons/pastel/haxe.png' alt='haxe.png' width='64' height='64' /> |
+| html.png | <img src='icons/onyx/html.png' alt='html.png' width='64' height='64' /> | <img src='icons/pastel/html.png' alt='html.png' width='64' height='64' /> |
+| idle.png | <img src='icons/onyx/idle.png' alt='idle.png' width='64' height='64' /> | <img src='icons/pastel/idle.png' alt='idle.png' width='64' height='64' /> |
+| java.png | <img src='icons/onyx/java.png' alt='java.png' width='64' height='64' /> | <img src='icons/pastel/java.png' alt='java.png' width='64' height='64' /> |
+| javascript.png | <img src='icons/onyx/javascript.png' alt='javascript.png' width='64' height='64' /> | <img src='icons/pastel/javascript.png' alt='javascript.png' width='64' height='64' /> |
+| json.png | <img src='icons/onyx/json.png' alt='json.png' width='64' height='64' /> | <img src='icons/pastel/json.png' alt='json.png' width='64' height='64' /> |
+| julia.png | <img src='icons/onyx/julia.png' alt='julia.png' width='64' height='64' /> | <img src='icons/pastel/julia.png' alt='julia.png' width='64' height='64' /> |
+| keyboard.png | <img src='icons/onyx/keyboard.png' alt='keyboard.png' width='64' height='64' /> | <img src='icons/pastel/keyboard.png' alt='keyboard.png' width='64' height='64' /> |
+| kotlin.png | <img src='icons/onyx/kotlin.png' alt='kotlin.png' width='64' height='64' /> | <img src='icons/pastel/kotlin.png' alt='kotlin.png' width='64' height='64' /> |
+| latex.png | <img src='icons/onyx/latex.png' alt='latex.png' width='64' height='64' /> | <img src='icons/pastel/latex.png' alt='latex.png' width='64' height='64' /> |
+| license.png | <img src='icons/onyx/license.png' alt='license.png' width='64' height='64' /> | <img src='icons/pastel/license.png' alt='license.png' width='64' height='64' /> |
+| lisp.png | <img src='icons/onyx/lisp.png' alt='lisp.png' width='64' height='64' /> | <img src='icons/pastel/lisp.png' alt='lisp.png' width='64' height='64' /> |
+| lsp.png | <img src='icons/onyx/lsp.png' alt='lsp.png' width='64' height='64' /> | <img src='icons/pastel/lsp.png' alt='lsp.png' width='64' height='64' /> |
+| lua.png | <img src='icons/onyx/lua.png' alt='lua.png' width='64' height='64' /> | <img src='icons/pastel/lua.png' alt='lua.png' width='64' height='64' /> |
+| lunarvim.png | <img src='icons/onyx/lunarvim.png' alt='lunarvim.png' width='64' height='64' /> | <img src='icons/pastel/lunarvim.png' alt='lunarvim.png' width='64' height='64' /> |
+| markdown.png | <img src='icons/onyx/markdown.png' alt='markdown.png' width='64' height='64' /> | <img src='icons/pastel/markdown.png' alt='markdown.png' width='64' height='64' /> |
+| maven.png | <img src='icons/onyx/maven.png' alt='maven.png' width='64' height='64' /> | <img src='icons/pastel/maven.png' alt='maven.png' width='64' height='64' /> |
+| neovim.png | <img src='icons/onyx/neovim.png' alt='neovim.png' width='64' height='64' /> | <img src='icons/pastel/neovim.png' alt='neovim.png' width='64' height='64' /> |
+| nim.png | <img src='icons/onyx/nim.png' alt='nim.png' width='64' height='64' /> | <img src='icons/pastel/nim.png' alt='nim.png' width='64' height='64' /> |
+| nix.png | <img src='icons/onyx/nix.png' alt='nix.png' width='64' height='64' /> | <img src='icons/pastel/nix.png' alt='nix.png' width='64' height='64' /> |
+| nvchad.png | <img src='icons/onyx/nvchad.png' alt='nvchad.png' width='64' height='64' /> | <img src='icons/pastel/nvchad.png' alt='nvchad.png' width='64' height='64' /> |
+| nvidia.png | <img src='icons/onyx/nvidia.png' alt='nvidia.png' width='64' height='64' /> | <img src='icons/pastel/nvidia.png' alt='nvidia.png' width='64' height='64' /> |
+| ocaml.png | <img src='icons/onyx/ocaml.png' alt='ocaml.png' width='64' height='64' /> | <img src='icons/pastel/ocaml.png' alt='ocaml.png' width='64' height='64' /> |
+| pascal.png | <img src='icons/onyx/pascal.png' alt='pascal.png' width='64' height='64' /> | <img src='icons/pastel/pascal.png' alt='pascal.png' width='64' height='64' /> |
+| perl.png | <img src='icons/onyx/perl.png' alt='perl.png' width='64' height='64' /> | <img src='icons/pastel/perl.png' alt='perl.png' width='64' height='64' /> |
+| phoenix.png | <img src='icons/onyx/phoenix.png' alt='phoenix.png' width='64' height='64' /> | <img src='icons/pastel/phoenix.png' alt='phoenix.png' width='64' height='64' /> |
+| php.png | <img src='icons/onyx/php.png' alt='php.png' width='64' height='64' /> | <img src='icons/pastel/php.png' alt='php.png' width='64' height='64' /> |
+| plugin.png | <img src='icons/onyx/plugin.png' alt='plugin.png' width='64' height='64' /> | <img src='icons/pastel/plugin.png' alt='plugin.png' width='64' height='64' /> |
+| postcss.png | <img src='icons/onyx/postcss.png' alt='postcss.png' width='64' height='64' /> | <img src='icons/pastel/postcss.png' alt='postcss.png' width='64' height='64' /> |
+| powershell.png | <img src='icons/onyx/powershell.png' alt='powershell.png' width='64' height='64' /> | <img src='icons/pastel/powershell.png' alt='powershell.png' width='64' height='64' /> |
+| python.png | <img src='icons/onyx/python.png' alt='python.png' width='64' height='64' /> | <img src='icons/pastel/python.png' alt='python.png' width='64' height='64' /> |
+| quarto.png | <img src='icons/onyx/quarto.png' alt='quarto.png' width='64' height='64' /> | <img src='icons/pastel/quarto.png' alt='quarto.png' width='64' height='64' /> |
+| r.png | <img src='icons/onyx/r.png' alt='r.png' width='64' height='64' /> | <img src='icons/pastel/r.png' alt='r.png' width='64' height='64' /> |
+| react.png | <img src='icons/onyx/react.png' alt='react.png' width='64' height='64' /> | <img src='icons/pastel/react.png' alt='react.png' width='64' height='64' /> |
+| ruby.png | <img src='icons/onyx/ruby.png' alt='ruby.png' width='64' height='64' /> | <img src='icons/pastel/ruby.png' alt='ruby.png' width='64' height='64' /> |
+| rust.png | <img src='icons/onyx/rust.png' alt='rust.png' width='64' height='64' /> | <img src='icons/pastel/rust.png' alt='rust.png' width='64' height='64' /> |
+| scala.png | <img src='icons/onyx/scala.png' alt='scala.png' width='64' height='64' /> | <img src='icons/pastel/scala.png' alt='scala.png' width='64' height='64' /> |
+| scss.png | <img src='icons/onyx/scss.png' alt='scss.png' width='64' height='64' /> | <img src='icons/pastel/scss.png' alt='scss.png' width='64' height='64' /> |
+| shell.png | <img src='icons/onyx/shell.png' alt='shell.png' width='64' height='64' /> | <img src='icons/pastel/shell.png' alt='shell.png' width='64' height='64' /> |
+| sql.png | <img src='icons/onyx/sql.png' alt='sql.png' width='64' height='64' /> | <img src='icons/pastel/sql.png' alt='sql.png' width='64' height='64' /> |
+| svelte.png | <img src='icons/onyx/svelte.png' alt='svelte.png' width='64' height='64' /> | <img src='icons/pastel/svelte.png' alt='svelte.png' width='64' height='64' /> |
+| swift.png | <img src='icons/onyx/swift.png' alt='swift.png' width='64' height='64' /> | <img src='icons/pastel/swift.png' alt='swift.png' width='64' height='64' /> |
+| telescope.png | <img src='icons/onyx/telescope.png' alt='telescope.png' width='64' height='64' /> | <img src='icons/pastel/telescope.png' alt='telescope.png' width='64' height='64' /> |
+| text.png | <img src='icons/onyx/text.png' alt='text.png' width='64' height='64' /> | <img src='icons/pastel/text.png' alt='text.png' width='64' height='64' /> |
+| toml.png | <img src='icons/onyx/toml.png' alt='toml.png' width='64' height='64' /> | <img src='icons/pastel/toml.png' alt='toml.png' width='64' height='64' /> |
+| typescript.png | <img src='icons/onyx/typescript.png' alt='typescript.png' width='64' height='64' /> | <img src='icons/pastel/typescript.png' alt='typescript.png' width='64' height='64' /> |
+| v.png | <img src='icons/onyx/v.png' alt='v.png' width='64' height='64' /> | <img src='icons/pastel/v.png' alt='v.png' width='64' height='64' /> |
+| vim.png | <img src='icons/onyx/vim.png' alt='vim.png' width='64' height='64' /> | <img src='icons/pastel/vim.png' alt='vim.png' width='64' height='64' /> |
+| viml.png | <img src='icons/onyx/viml.png' alt='viml.png' width='64' height='64' /> | <img src='icons/pastel/viml.png' alt='viml.png' width='64' height='64' /> |
+| vue.png | <img src='icons/onyx/vue.png' alt='vue.png' width='64' height='64' /> | <img src='icons/pastel/vue.png' alt='vue.png' width='64' height='64' /> |
+| xml.png | <img src='icons/onyx/xml.png' alt='xml.png' width='64' height='64' /> | <img src='icons/pastel/xml.png' alt='xml.png' width='64' height='64' /> |
+| yaml.png | <img src='icons/onyx/yaml.png' alt='yaml.png' width='64' height='64' /> | <img src='icons/pastel/yaml.png' alt='yaml.png' width='64' height='64' /> |
+| zig.png | <img src='icons/onyx/zig.png' alt='zig.png' width='64' height='64' /> | <img src='icons/pastel/zig.png' alt='zig.png' width='64' height='64' /> |
 </details>
 </details>
