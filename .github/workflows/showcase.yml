@@ -1,0 +1,75 @@
+name: Update Icons Showcase
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "master"
+    paths:
+      - "icons/**"
+
+jobs:
+  update-showcase:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
+
+      - name: Generate Markdown Table
+        id: generate_table
+        run: |
+          themes=($(find icons -mindepth 1 -maxdepth 1 -type d | sort))
+          theme_names=($(basename -a "${themes[@]}"))
+
+          echo "Generating Markdown Table..."
+          echo "<details><summary>Showcase</summary>" > icons_table.md
+          echo "" >> icons_table.md
+          
+          echo -n "| Icon " >> icons_table.md
+          for theme in "${theme_names[@]}"; do
+            echo -n "| ${theme} " >> icons_table.md
+          done
+          echo "|" >> icons_table.md
+
+          echo -n "|------" >> icons_table.md
+          for _ in "${theme_names[@]}"; do
+            echo -n "|---------" >> icons_table.md
+          done
+          echo "|" >> icons_table.md
+
+          icons_dir="${themes[0]}" # All themes must have the same icon names
+          for icon_path in "${icons_dir}"/*; do
+            icon_name=$(basename "$icon_path")
+            echo -n "| ${icon_name} " >> icons_table.md
+
+            for theme in "${themes[@]}"; do
+              echo -n "| ![${icon_name}](${theme}/${icon_name}) " >> icons_table.md
+            done
+            echo "|" >> icons_table.md
+          done
+
+          echo "</details>" >> icons_table.md
+
+      - name: Update README.md
+        run: |
+          if grep -q "<details><summary>Showcase</summary>" README.md; then
+            echo "Updating existing showcase..."
+            sed -i '/<details><summary>Showcase<\/summary>/,/<\/details>/c\REPLACEMENT_MARKER' README.md
+            sed -i '/REPLACEMENT_MARKER/r icons_table.md' README.md
+            sed -i '/REPLACEMENT_MARKER/d' README.md
+          else
+            echo "Adding new showcase..."
+            echo -e "\n<details><summary>Showcase</summary>\n\n$(cat icons_table.md)\n</details>" >> README.md
+          fi
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs(readme): update icon showcase"
+          git push
