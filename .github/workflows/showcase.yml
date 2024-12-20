@@ -1,12 +1,11 @@
 name: Update Icons Showcase
 
 on:
-  workflow_dispatch:
   push:
     branches:
-      - "master"
+      - master
     paths:
-      - "icons/**"
+      - icons/**
 
 jobs:
   update-showcase:
@@ -15,9 +14,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-
-      - name: Install ImageMagick
-        run: sudo apt-get update && sudo apt-get install -y imagemagick
 
       - name: Generate Markdown Table
         id: generate_table
@@ -41,13 +37,13 @@ jobs:
           done
           echo "|" >> icons_table.md
 
-          icons_dir="${themes[0]}" # All themes must have the same icon names
+          icons_dir="${themes[0]}"
           for icon_path in "${icons_dir}"/*; do
             icon_name=$(basename "$icon_path")
             echo -n "| ${icon_name} " >> icons_table.md
 
             for theme in "${themes[@]}"; do
-              echo -n "| ![${icon_name}](${theme}/${icon_name}) " >> icons_table.md
+              echo -n "| <img src='${theme}/${icon_name}' alt='${icon_name}' width='64' height='64' /> " >> icons_table.md
             done
             echo "|" >> icons_table.md
           done
@@ -63,7 +59,7 @@ jobs:
             sed -i '/REPLACEMENT_MARKER/d' README.md
           else
             echo "Adding new showcase..."
-            echo -e "\n<details><summary>Showcase</summary>\n\n$(cat icons_table.md)\n</details>" >> README.md
+            echo -e "\n$(cat icons_table.md)" >> README.md
           fi
 
       - name: Commit and Push Changes
