@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - "master"
+      - master
     paths:
-      - "icons/**"
+      - icons/**
 
 jobs:
   update-showcase:
@@ -16,9 +16,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Install ImageMagick
-        run: sudo apt-get update && sudo apt-get install -y imagemagick
-
       - name: Generate Markdown Table
         id: generate_table
         run: |
@@ -26,7 +23,7 @@ jobs:
           theme_names=($(basename -a "${themes[@]}"))
 
           echo "Generating Markdown Table..."
-          echo "<details><summary>Showcase</summary>" > icons_table.md
+          echo "<details id=\"showcase\"><summary>Showcase</summary>" > icons_table.md
           echo "" >> icons_table.md
           
           echo -n "| Icon " >> icons_table.md
@@ -41,13 +38,13 @@ jobs:
           done
           echo "|" >> icons_table.md
 
-          icons_dir="${themes[0]}" # All themes must have the same icon names
+          icons_dir="${themes[0]}"
           for icon_path in "${icons_dir}"/*; do
             icon_name=$(basename "$icon_path")
             echo -n "| ${icon_name} " >> icons_table.md
 
             for theme in "${themes[@]}"; do
-              echo -n "| ![${icon_name}](${theme}/${icon_name}) " >> icons_table.md
+              echo -n "| <img src='${theme}/${icon_name}' alt='${icon_name}' width='256' height='256' /> " >> icons_table.md
             done
             echo "|" >> icons_table.md
           done
@@ -56,14 +53,14 @@ jobs:
 
       - name: Update README.md
         run: |
-          if grep -q "<details><summary>Showcase</summary>" README.md; then
+          if grep -q "<details id=\"showcase\"><summary>Showcase</summary>" README.md; then
             echo "Updating existing showcase..."
-            sed -i '/<details><summary>Showcase<\/summary>/,/<\/details>/c\REPLACEMENT_MARKER' README.md
+            sed -i '/<details id=\"showcase\"><summary>Showcase<\/summary>/,/<\/details>/c\REPLACEMENT_MARKER' README.md
             sed -i '/REPLACEMENT_MARKER/r icons_table.md' README.md
             sed -i '/REPLACEMENT_MARKER/d' README.md
           else
             echo "Adding new showcase..."
-            echo -e "\n<details><summary>Showcase</summary>\n\n$(cat icons_table.md)\n</details>" >> README.md
+            echo -e "\n$(cat icons_table.md)" >> README.md
           fi
 
       - name: Commit and Push Changes
