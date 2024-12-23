@@ -64,6 +64,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | nvchad.png | <img src='icons/onyx/nvchad.png' alt='nvchad.png' width='256' height='256' /> | <img src='icons/pastel/nvchad.png' alt='nvchad.png' width='256' height='256' /> |
 | nvidia.png | <img src='icons/onyx/nvidia.png' alt='nvidia.png' width='256' height='256' /> | <img src='icons/pastel/nvidia.png' alt='nvidia.png' width='256' height='256' /> |
 | ocaml.png | <img src='icons/onyx/ocaml.png' alt='ocaml.png' width='256' height='256' /> | <img src='icons/pastel/ocaml.png' alt='ocaml.png' width='256' height='256' /> |
+| odin.png | <img src='icons/onyx/odin.png' alt='odin.png' width='256' height='256' /> | <img src='icons/pastel/odin.png' alt='odin.png' width='256' height='256' /> |
 | pascal.png | <img src='icons/onyx/pascal.png' alt='pascal.png' width='256' height='256' /> | <img src='icons/pastel/pascal.png' alt='pascal.png' width='256' height='256' /> |
 | perl.png | <img src='icons/onyx/perl.png' alt='perl.png' width='256' height='256' /> | <img src='icons/pastel/perl.png' alt='perl.png' width='256' height='256' /> |
 | phoenix.png | <img src='icons/onyx/phoenix.png' alt='phoenix.png' width='256' height='256' /> | <img src='icons/pastel/phoenix.png' alt='phoenix.png' width='256' height='256' /> |
