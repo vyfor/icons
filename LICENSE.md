@@ -32,6 +32,7 @@ This file provides a list of the icons included in this repository, given that a
 - Nix: https://nixos.org/ [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - NvChad: https://nvchad.com/
 - OCaml: https://ocaml.org/
+- Odin: https://odin-lang.org/ [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - Perl: https://perl.org/
 - Phoenix: https://phoenixframework.org/
 - PostCSS: https://postcss.org/
