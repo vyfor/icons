@@ -58,6 +58,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | lunarvim.png | <img src='icons/onyx/lunarvim.png' alt='lunarvim.png' width='256' height='256' /> | <img src='icons/pastel/lunarvim.png' alt='lunarvim.png' width='256' height='256' /> |
 | markdown.png | <img src='icons/onyx/markdown.png' alt='markdown.png' width='256' height='256' /> | <img src='icons/pastel/markdown.png' alt='markdown.png' width='256' height='256' /> |
 | maven.png | <img src='icons/onyx/maven.png' alt='maven.png' width='256' height='256' /> | <img src='icons/pastel/maven.png' alt='maven.png' width='256' height='256' /> |
+| neorg.png | <img src='icons/onyx/neorg.png' alt='neorg.png' width='256' height='256' /> | <img src='icons/pastel/neorg.png' alt='neorg.png' width='256' height='256' /> |
 | neovim.png | <img src='icons/onyx/neovim.png' alt='neovim.png' width='256' height='256' /> | <img src='icons/pastel/neovim.png' alt='neovim.png' width='256' height='256' /> |
 | nim.png | <img src='icons/onyx/nim.png' alt='nim.png' width='256' height='256' /> | <img src='icons/pastel/nim.png' alt='nim.png' width='256' height='256' /> |
 | nix.png | <img src='icons/onyx/nix.png' alt='nix.png' width='256' height='256' /> | <img src='icons/pastel/nix.png' alt='nix.png' width='256' height='256' /> |
@@ -65,6 +66,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | nvidia.png | <img src='icons/onyx/nvidia.png' alt='nvidia.png' width='256' height='256' /> | <img src='icons/pastel/nvidia.png' alt='nvidia.png' width='256' height='256' /> |
 | ocaml.png | <img src='icons/onyx/ocaml.png' alt='ocaml.png' width='256' height='256' /> | <img src='icons/pastel/ocaml.png' alt='ocaml.png' width='256' height='256' /> |
 | odin.png | <img src='icons/onyx/odin.png' alt='odin.png' width='256' height='256' /> | <img src='icons/pastel/odin.png' alt='odin.png' width='256' height='256' /> |
+| org.png | <img src='icons/onyx/org.png' alt='org.png' width='256' height='256' /> | <img src='icons/pastel/org.png' alt='org.png' width='256' height='256' /> |
 | pascal.png | <img src='icons/onyx/pascal.png' alt='pascal.png' width='256' height='256' /> | <img src='icons/pastel/pascal.png' alt='pascal.png' width='256' height='256' /> |
 | perl.png | <img src='icons/onyx/perl.png' alt='perl.png' width='256' height='256' /> | <img src='icons/pastel/perl.png' alt='perl.png' width='256' height='256' /> |
 | phoenix.png | <img src='icons/onyx/phoenix.png' alt='phoenix.png' width='256' height='256' /> | <img src='icons/pastel/phoenix.png' alt='phoenix.png' width='256' height='256' /> |
