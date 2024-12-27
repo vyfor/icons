@@ -27,6 +27,7 @@ This file provides a list of the icons included in this repository, given that a
 - Lua: https://lua.org/
 - LunarVim: https://lunarvim.org/
 - Maven: https://maven.apache.org/
+- Neorg: https://github.com/nvim-neorg/neorg [GPL-3.0](https://github.com/nvim-neorg/neorg/blob/main/LICENSE)
 - Neovim: https://neovim.io/
 - Nim: https://nim-lang.org/
 - Nix: https://nixos.org/ [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
