@@ -62,6 +62,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | neovim.png | <img src='icons/onyx/neovim.png' alt='neovim.png' width='256' height='256' /> | <img src='icons/pastel/neovim.png' alt='neovim.png' width='256' height='256' /> |
 | nim.png | <img src='icons/onyx/nim.png' alt='nim.png' width='256' height='256' /> | <img src='icons/pastel/nim.png' alt='nim.png' width='256' height='256' /> |
 | nix.png | <img src='icons/onyx/nix.png' alt='nix.png' width='256' height='256' /> | <img src='icons/pastel/nix.png' alt='nix.png' width='256' height='256' /> |
+| notes.png | <img src='icons/onyx/notes.png' alt='notes.png' width='256' height='256' /> | <img src='icons/pastel/notes.png' alt='notes.png' width='256' height='256' /> |
 | nvchad.png | <img src='icons/onyx/nvchad.png' alt='nvchad.png' width='256' height='256' /> | <img src='icons/pastel/nvchad.png' alt='nvchad.png' width='256' height='256' /> |
 | nvidia.png | <img src='icons/onyx/nvidia.png' alt='nvidia.png' width='256' height='256' /> | <img src='icons/pastel/nvidia.png' alt='nvidia.png' width='256' height='256' /> |
 | ocaml.png | <img src='icons/onyx/ocaml.png' alt='ocaml.png' width='256' height='256' /> | <img src='icons/pastel/ocaml.png' alt='ocaml.png' width='256' height='256' /> |
