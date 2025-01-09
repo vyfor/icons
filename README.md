@@ -19,6 +19,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | assembly.png | <img src='icons/onyx/assembly.png' alt='assembly.png' width='256' height='256' /> | <img src='icons/pastel/assembly.png' alt='assembly.png' width='256' height='256' /> |
 | astro.png | <img src='icons/onyx/astro.png' alt='astro.png' width='256' height='256' /> | <img src='icons/pastel/astro.png' alt='astro.png' width='256' height='256' /> |
 | astronvim.png | <img src='icons/onyx/astronvim.png' alt='astronvim.png' width='256' height='256' /> | <img src='icons/pastel/astronvim.png' alt='astronvim.png' width='256' height='256' /> |
+| awk.png | <img src='icons/onyx/awk.png' alt='awk.png' width='256' height='256' /> | <img src='icons/pastel/awk.png' alt='awk.png' width='256' height='256' /> |
 | book.png | <img src='icons/onyx/book.png' alt='book.png' width='256' height='256' /> | <img src='icons/pastel/book.png' alt='book.png' width='256' height='256' /> |
 | c.png | <img src='icons/onyx/c.png' alt='c.png' width='256' height='256' /> | <img src='icons/pastel/c.png' alt='c.png' width='256' height='256' /> |
 | cargo.png | <img src='icons/onyx/cargo.png' alt='cargo.png' width='256' height='256' /> | <img src='icons/pastel/cargo.png' alt='cargo.png' width='256' height='256' /> |
@@ -35,6 +36,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | erlang.png | <img src='icons/onyx/erlang.png' alt='erlang.png' width='256' height='256' /> | <img src='icons/pastel/erlang.png' alt='erlang.png' width='256' height='256' /> |
 | folder.png | <img src='icons/onyx/folder.png' alt='folder.png' width='256' height='256' /> | <img src='icons/pastel/folder.png' alt='folder.png' width='256' height='256' /> |
 | fsharp.png | <img src='icons/onyx/fsharp.png' alt='fsharp.png' width='256' height='256' /> | <img src='icons/pastel/fsharp.png' alt='fsharp.png' width='256' height='256' /> |
+| gear.png | <img src='icons/onyx/gear.png' alt='gear.png' width='256' height='256' /> | <img src='icons/pastel/gear.png' alt='gear.png' width='256' height='256' /> |
 | git.png | <img src='icons/onyx/git.png' alt='git.png' width='256' height='256' /> | <img src='icons/pastel/git.png' alt='git.png' width='256' height='256' /> |
 | gml.png | <img src='icons/onyx/gml.png' alt='gml.png' width='256' height='256' /> | <img src='icons/pastel/gml.png' alt='gml.png' width='256' height='256' /> |
 | go.png | <img src='icons/onyx/go.png' alt='go.png' width='256' height='256' /> | <img src='icons/pastel/go.png' alt='go.png' width='256' height='256' /> |
@@ -72,6 +74,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | perl.png | <img src='icons/onyx/perl.png' alt='perl.png' width='256' height='256' /> | <img src='icons/pastel/perl.png' alt='perl.png' width='256' height='256' /> |
 | phoenix.png | <img src='icons/onyx/phoenix.png' alt='phoenix.png' width='256' height='256' /> | <img src='icons/pastel/phoenix.png' alt='phoenix.png' width='256' height='256' /> |
 | php.png | <img src='icons/onyx/php.png' alt='php.png' width='256' height='256' /> | <img src='icons/pastel/php.png' alt='php.png' width='256' height='256' /> |
+| picture.png | <img src='icons/onyx/picture.png' alt='picture.png' width='256' height='256' /> | <img src='icons/pastel/picture.png' alt='picture.png' width='256' height='256' /> |
 | plugin.png | <img src='icons/onyx/plugin.png' alt='plugin.png' width='256' height='256' /> | <img src='icons/pastel/plugin.png' alt='plugin.png' width='256' height='256' /> |
 | postcss.png | <img src='icons/onyx/postcss.png' alt='postcss.png' width='256' height='256' /> | <img src='icons/pastel/postcss.png' alt='postcss.png' width='256' height='256' /> |
 | powershell.png | <img src='icons/onyx/powershell.png' alt='powershell.png' width='256' height='256' /> | <img src='icons/pastel/powershell.png' alt='powershell.png' width='256' height='256' /> |
