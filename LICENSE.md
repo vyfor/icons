@@ -69,6 +69,7 @@ This file provides a list of the icons included in this repository, given that a
 - groovy.png: https://www.svgrepo.com/svg/508889/pl-groovy-02 [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
 - html.png: https://www.svgrepo.com/svg/508839/html5-02 [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
 - java.png: https://www.svgrepo.com/svg/521289/java-16 [MIT License](https://opensource.org/licenses/MIT)
+- logs.png https://www.svgrepo.com/svg/414461/scroll [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
 - picture.png: https://www.svgrepo.com/svg/486982/picture [MIT License](https://opensource.org/licenses/MIT)
 - scala.png: https://github.com/vscode-icons/vscode-icons [MIT License](https://opensource.org/licenses/MIT)
 - ruby.png: https://www.svgrepo.com/svg/508940/ruby [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
