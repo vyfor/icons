@@ -89,6 +89,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | shell.png | <img src='icons/onyx/shell.png' alt='shell.png' width='256' height='256' /> | <img src='icons/pastel/shell.png' alt='shell.png' width='256' height='256' /> |
 | sql.png | <img src='icons/onyx/sql.png' alt='sql.png' width='256' height='256' /> | <img src='icons/pastel/sql.png' alt='sql.png' width='256' height='256' /> |
 | svelte.png | <img src='icons/onyx/svelte.png' alt='svelte.png' width='256' height='256' /> | <img src='icons/pastel/svelte.png' alt='svelte.png' width='256' height='256' /> |
+| svg.png | <img src='icons/onyx/svg.png' alt='svg.png' width='256' height='256' /> | <img src='icons/pastel/svg.png' alt='svg.png' width='256' height='256' /> |
 | swift.png | <img src='icons/onyx/swift.png' alt='swift.png' width='256' height='256' /> | <img src='icons/pastel/swift.png' alt='swift.png' width='256' height='256' /> |
 | telescope.png | <img src='icons/onyx/telescope.png' alt='telescope.png' width='256' height='256' /> | <img src='icons/pastel/telescope.png' alt='telescope.png' width='256' height='256' /> |
 | text.png | <img src='icons/onyx/text.png' alt='text.png' width='256' height='256' /> | <img src='icons/pastel/text.png' alt='text.png' width='256' height='256' /> |
