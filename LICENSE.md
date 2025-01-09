@@ -47,6 +47,7 @@ This file provides a list of the icons included in this repository, given that a
 - Scala: https://scala-lang.org/
 - Sass: https://sass-lang.com/ [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - Svelte: https://svelte.dev/
+- SVG: https://www.w3.org/Graphics/SVG/ [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - Swift: https://swift.org/
 - TOML: https://toml.io/
 - TypeScript: https://typescriptlang.org/
@@ -55,6 +56,7 @@ This file provides a list of the icons included in this repository, given that a
 - Vue: https://vuejs.org/ [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - YAML: https://yaml.org/
 - Zig: https://ziglang.org/ [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- awk.png: https://www.svgrepo.com/svg/373456/awk https://github.com/vscode-icons/vscode-icons [MIT License](https://opensource.org/licenses/MIT)
 - book.png: https://svgrepo.com/svg/491853/book-library-ui [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
 - c.png: https://www.svgrepo.com/svg/521335/c-16 [MIT License](https://opensource.org/licenses/MIT)
 - cpp.png: https://www.svgrepo.com/svg/521339/c-plusplus-16 [MIT License](https://opensource.org/licenses/MIT)
