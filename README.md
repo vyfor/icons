@@ -55,6 +55,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | latex.png | <img src='icons/onyx/latex.png' alt='latex.png' width='256' height='256' /> | <img src='icons/pastel/latex.png' alt='latex.png' width='256' height='256' /> |
 | license.png | <img src='icons/onyx/license.png' alt='license.png' width='256' height='256' /> | <img src='icons/pastel/license.png' alt='license.png' width='256' height='256' /> |
 | lisp.png | <img src='icons/onyx/lisp.png' alt='lisp.png' width='256' height='256' /> | <img src='icons/pastel/lisp.png' alt='lisp.png' width='256' height='256' /> |
+| logs.png | <img src='icons/onyx/logs.png' alt='logs.png' width='256' height='256' /> | <img src='icons/pastel/logs.png' alt='logs.png' width='256' height='256' /> |
 | lsp.png | <img src='icons/onyx/lsp.png' alt='lsp.png' width='256' height='256' /> | <img src='icons/pastel/lsp.png' alt='lsp.png' width='256' height='256' /> |
 | lua.png | <img src='icons/onyx/lua.png' alt='lua.png' width='256' height='256' /> | <img src='icons/pastel/lua.png' alt='lua.png' width='256' height='256' /> |
 | lunarvim.png | <img src='icons/onyx/lunarvim.png' alt='lunarvim.png' width='256' height='256' /> | <img src='icons/pastel/lunarvim.png' alt='lunarvim.png' width='256' height='256' /> |
