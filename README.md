@@ -24,9 +24,11 @@ If you have any questions or inquiries regarding the these assets and their lice
 | astronvim.png | <img src='icons/onyx/astronvim.png' alt='astronvim.png' width='256' height='256' /> | <img src='icons/pastel/astronvim.png' alt='astronvim.png' width='256' height='256' /> |
 | awk.png | <img src='icons/onyx/awk.png' alt='awk.png' width='256' height='256' /> | <img src='icons/pastel/awk.png' alt='awk.png' width='256' height='256' /> |
 | book.png | <img src='icons/onyx/book.png' alt='book.png' width='256' height='256' /> | <img src='icons/pastel/book.png' alt='book.png' width='256' height='256' /> |
+| bug.png | <img src='icons/onyx/bug.png' alt='bug.png' width='256' height='256' /> | <img src='icons/pastel/bug.png' alt='bug.png' width='256' height='256' /> |
 | c.png | <img src='icons/onyx/c.png' alt='c.png' width='256' height='256' /> | <img src='icons/pastel/c.png' alt='c.png' width='256' height='256' /> |
 | cargo.png | <img src='icons/onyx/cargo.png' alt='cargo.png' width='256' height='256' /> | <img src='icons/pastel/cargo.png' alt='cargo.png' width='256' height='256' /> |
 | clojure.png | <img src='icons/onyx/clojure.png' alt='clojure.png' width='256' height='256' /> | <img src='icons/pastel/clojure.png' alt='clojure.png' width='256' height='256' /> |
+| controller.png | <img src='icons/onyx/controller.png' alt='controller.png' width='256' height='256' /> | <img src='icons/pastel/controller.png' alt='controller.png' width='256' height='256' /> |
 | cpp.png | <img src='icons/onyx/cpp.png' alt='cpp.png' width='256' height='256' /> | <img src='icons/pastel/cpp.png' alt='cpp.png' width='256' height='256' /> |
 | crystal.png | <img src='icons/onyx/crystal.png' alt='crystal.png' width='256' height='256' /> | <img src='icons/pastel/crystal.png' alt='crystal.png' width='256' height='256' /> |
 | csharp.png | <img src='icons/onyx/csharp.png' alt='csharp.png' width='256' height='256' /> | <img src='icons/pastel/csharp.png' alt='csharp.png' width='256' height='256' /> |
@@ -34,6 +36,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | d.png | <img src='icons/onyx/d.png' alt='d.png' width='256' height='256' /> | <img src='icons/pastel/d.png' alt='d.png' width='256' height='256' /> |
 | dart.png | <img src='icons/onyx/dart.png' alt='dart.png' width='256' height='256' /> | <img src='icons/pastel/dart.png' alt='dart.png' width='256' height='256' /> |
 | dashboard.png | <img src='icons/onyx/dashboard.png' alt='dashboard.png' width='256' height='256' /> | <img src='icons/pastel/dashboard.png' alt='dashboard.png' width='256' height='256' /> |
+| diagnostics.png | <img src='icons/onyx/diagnostics.png' alt='diagnostics.png' width='256' height='256' /> | <img src='icons/pastel/diagnostics.png' alt='diagnostics.png' width='256' height='256' /> |
 | docker.png | <img src='icons/onyx/docker.png' alt='docker.png' width='256' height='256' /> | <img src='icons/pastel/docker.png' alt='docker.png' width='256' height='256' /> |
 | elixir.png | <img src='icons/onyx/elixir.png' alt='elixir.png' width='256' height='256' /> | <img src='icons/pastel/elixir.png' alt='elixir.png' width='256' height='256' /> |
 | erlang.png | <img src='icons/onyx/erlang.png' alt='erlang.png' width='256' height='256' /> | <img src='icons/pastel/erlang.png' alt='erlang.png' width='256' height='256' /> |
@@ -104,6 +107,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | svg.png | <img src='icons/onyx/svg.png' alt='svg.png' width='256' height='256' /> | <img src='icons/pastel/svg.png' alt='svg.png' width='256' height='256' /> |
 | swift.png | <img src='icons/onyx/swift.png' alt='swift.png' width='256' height='256' /> | <img src='icons/pastel/swift.png' alt='swift.png' width='256' height='256' /> |
 | telescope.png | <img src='icons/onyx/telescope.png' alt='telescope.png' width='256' height='256' /> | <img src='icons/pastel/telescope.png' alt='telescope.png' width='256' height='256' /> |
+| tests.png | <img src='icons/onyx/tests.png' alt='tests.png' width='256' height='256' /> | <img src='icons/pastel/tests.png' alt='tests.png' width='256' height='256' /> |
 | text.png | <img src='icons/onyx/text.png' alt='text.png' width='256' height='256' /> | <img src='icons/pastel/text.png' alt='text.png' width='256' height='256' /> |
 | toml.png | <img src='icons/onyx/toml.png' alt='toml.png' width='256' height='256' /> | <img src='icons/pastel/toml.png' alt='toml.png' width='256' height='256' /> |
 | typescript.png | <img src='icons/onyx/typescript.png' alt='typescript.png' width='256' height='256' /> | <img src='icons/pastel/typescript.png' alt='typescript.png' width='256' height='256' /> |
