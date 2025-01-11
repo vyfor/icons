@@ -1,8 +1,11 @@
 This file provides a list of the icons included in this repository, given that a link to the license or attribution is required. Should you notice any inaccuracies or omissions in the license or attribution information, please do not hesitate to inform me.
 
-- AutoHotkey: https://autohotkey.com/
+- Ada: https://ada-lang.io/
+- Angular: https://angular.dev/ [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Arduino: https://arduino.cc/
 - Astro: https://astro.build/
 - AstroNvim: https://astronvim.com/
+- AutoHotkey: https://autohotkey.com/
 - C++: https://isocpp.org/
 - C#: https://dotnet.microsoft.com/en-us/languages/csharp
 - Cargo: https://github.com/rust-lang/cargo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -14,23 +17,29 @@ This file provides a list of the icons included in this repository, given that a
 - Elixir: https://elixir-lang.org/
 - Erlang: https://erlang.org/
 - F#: https://fsharp.org/
+- GameMaker: https://gamemaker.io/
 - Git: https://git-scm.com/
 - Go: https://go.dev/ [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- GameMaker: https://gamemaker.io/
+- Godot: https://godotengine.org/ [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- GNU: https://gnu.org/ [Free Art License](https://artlibre.org/licence/lal/en/)
 - Gradle: https://gradle.com/
 - Groovy: https://groovy-lang.org/
 - Haskell: https://haskell.org/
+- Hyprland: https://hyprland.org/ [BSD-3-Clause](https://opensource.org/license/bsd-3-clause)
 - Julia: https://julialang.org/
+- Jupyter Notebook: https://jupyter.org/ [BSD-3-Clause](https://opensource.org/license/bsd-3-clause)
 - Kotlin: https://kotlinlang.org/
 - Latex: https://latex-project.org/
 - Lisp: https://common-lisp.net/
 - Lua: https://lua.org/
 - LunarVim: https://lunarvim.org/
+- MATLAB: https://mathworks.com/products/matlab.html
 - Maven: https://maven.apache.org/
 - Neorg: https://github.com/nvim-neorg/neorg [GPL-3.0](https://github.com/nvim-neorg/neorg/blob/main/LICENSE)
 - Neovim: https://neovim.io/
 - Nim: https://nim-lang.org/
 - Nix: https://nixos.org/ [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- NPM: https://npmjs.com/ [Artistic License 2.0](https://opensource.org/licenses/Artistic-2.0)
 - NvChad: https://nvchad.com/
 - OCaml: https://ocaml.org/
 - Odin: https://odin-lang.org/ [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -43,6 +52,7 @@ This file provides a list of the icons included in this repository, given that a
 - R: https://www.r-project.org/ [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - React: https://react.dev/
 - Ruby: https://ruby-lang.org/
+- RubyGems: https://rubygems.org/
 - Rust: https://rust-lang.org/ [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/)
 - Scala: https://scala-lang.org/
 - Sass: https://sass-lang.com/ [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -69,6 +79,7 @@ This file provides a list of the icons included in this repository, given that a
 - groovy.png: https://www.svgrepo.com/svg/508889/pl-groovy-02 [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
 - html.png: https://www.svgrepo.com/svg/508839/html5-02 [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
 - java.png: https://www.svgrepo.com/svg/521289/java-16 [MIT License](https://opensource.org/licenses/MIT)
+- lock.png https://www.svgrepo.com/svg/532323/lock-alt [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
 - logs.png https://www.svgrepo.com/svg/414461/scroll [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
 - picture.png: https://www.svgrepo.com/svg/486982/picture [MIT License](https://opensource.org/licenses/MIT)
 - scala.png: https://github.com/vscode-icons/vscode-icons [MIT License](https://opensource.org/licenses/MIT)
