@@ -15,7 +15,10 @@ If you have any questions or inquiries regarding the these assets and their lice
 
 | Icon | onyx | pastel |
 |------|---------|---------|
+| ada.png | <img src='icons/onyx/ada.png' alt='ada.png' width='256' height='256' /> | <img src='icons/pastel/ada.png' alt='ada.png' width='256' height='256' /> |
 | ahk.png | <img src='icons/onyx/ahk.png' alt='ahk.png' width='256' height='256' /> | <img src='icons/pastel/ahk.png' alt='ahk.png' width='256' height='256' /> |
+| angular.png | <img src='icons/onyx/angular.png' alt='angular.png' width='256' height='256' /> | <img src='icons/pastel/angular.png' alt='angular.png' width='256' height='256' /> |
+| arduino.png | <img src='icons/onyx/arduino.png' alt='arduino.png' width='256' height='256' /> | <img src='icons/pastel/arduino.png' alt='arduino.png' width='256' height='256' /> |
 | assembly.png | <img src='icons/onyx/assembly.png' alt='assembly.png' width='256' height='256' /> | <img src='icons/pastel/assembly.png' alt='assembly.png' width='256' height='256' /> |
 | astro.png | <img src='icons/onyx/astro.png' alt='astro.png' width='256' height='256' /> | <img src='icons/pastel/astro.png' alt='astro.png' width='256' height='256' /> |
 | astronvim.png | <img src='icons/onyx/astronvim.png' alt='astronvim.png' width='256' height='256' /> | <img src='icons/pastel/astronvim.png' alt='astronvim.png' width='256' height='256' /> |
@@ -39,33 +42,40 @@ If you have any questions or inquiries regarding the these assets and their lice
 | gear.png | <img src='icons/onyx/gear.png' alt='gear.png' width='256' height='256' /> | <img src='icons/pastel/gear.png' alt='gear.png' width='256' height='256' /> |
 | git.png | <img src='icons/onyx/git.png' alt='git.png' width='256' height='256' /> | <img src='icons/pastel/git.png' alt='git.png' width='256' height='256' /> |
 | gml.png | <img src='icons/onyx/gml.png' alt='gml.png' width='256' height='256' /> | <img src='icons/pastel/gml.png' alt='gml.png' width='256' height='256' /> |
+| gnu.png | <img src='icons/onyx/gnu.png' alt='gnu.png' width='256' height='256' /> | <img src='icons/pastel/gnu.png' alt='gnu.png' width='256' height='256' /> |
 | go.png | <img src='icons/onyx/go.png' alt='go.png' width='256' height='256' /> | <img src='icons/pastel/go.png' alt='go.png' width='256' height='256' /> |
+| godot.png | <img src='icons/onyx/godot.png' alt='godot.png' width='256' height='256' /> | <img src='icons/pastel/godot.png' alt='godot.png' width='256' height='256' /> |
 | gradle.png | <img src='icons/onyx/gradle.png' alt='gradle.png' width='256' height='256' /> | <img src='icons/pastel/gradle.png' alt='gradle.png' width='256' height='256' /> |
 | groovy.png | <img src='icons/onyx/groovy.png' alt='groovy.png' width='256' height='256' /> | <img src='icons/pastel/groovy.png' alt='groovy.png' width='256' height='256' /> |
 | haskell.png | <img src='icons/onyx/haskell.png' alt='haskell.png' width='256' height='256' /> | <img src='icons/pastel/haskell.png' alt='haskell.png' width='256' height='256' /> |
 | haxe.png | <img src='icons/onyx/haxe.png' alt='haxe.png' width='256' height='256' /> | <img src='icons/pastel/haxe.png' alt='haxe.png' width='256' height='256' /> |
 | html.png | <img src='icons/onyx/html.png' alt='html.png' width='256' height='256' /> | <img src='icons/pastel/html.png' alt='html.png' width='256' height='256' /> |
+| hyprland.png | <img src='icons/onyx/hyprland.png' alt='hyprland.png' width='256' height='256' /> | <img src='icons/pastel/hyprland.png' alt='hyprland.png' width='256' height='256' /> |
 | idle.png | <img src='icons/onyx/idle.png' alt='idle.png' width='256' height='256' /> | <img src='icons/pastel/idle.png' alt='idle.png' width='256' height='256' /> |
 | java.png | <img src='icons/onyx/java.png' alt='java.png' width='256' height='256' /> | <img src='icons/pastel/java.png' alt='java.png' width='256' height='256' /> |
 | javascript.png | <img src='icons/onyx/javascript.png' alt='javascript.png' width='256' height='256' /> | <img src='icons/pastel/javascript.png' alt='javascript.png' width='256' height='256' /> |
 | json.png | <img src='icons/onyx/json.png' alt='json.png' width='256' height='256' /> | <img src='icons/pastel/json.png' alt='json.png' width='256' height='256' /> |
 | julia.png | <img src='icons/onyx/julia.png' alt='julia.png' width='256' height='256' /> | <img src='icons/pastel/julia.png' alt='julia.png' width='256' height='256' /> |
+| jupyter.png | <img src='icons/onyx/jupyter.png' alt='jupyter.png' width='256' height='256' /> | <img src='icons/pastel/jupyter.png' alt='jupyter.png' width='256' height='256' /> |
 | keyboard.png | <img src='icons/onyx/keyboard.png' alt='keyboard.png' width='256' height='256' /> | <img src='icons/pastel/keyboard.png' alt='keyboard.png' width='256' height='256' /> |
 | kotlin.png | <img src='icons/onyx/kotlin.png' alt='kotlin.png' width='256' height='256' /> | <img src='icons/pastel/kotlin.png' alt='kotlin.png' width='256' height='256' /> |
 | latex.png | <img src='icons/onyx/latex.png' alt='latex.png' width='256' height='256' /> | <img src='icons/pastel/latex.png' alt='latex.png' width='256' height='256' /> |
 | license.png | <img src='icons/onyx/license.png' alt='license.png' width='256' height='256' /> | <img src='icons/pastel/license.png' alt='license.png' width='256' height='256' /> |
 | lisp.png | <img src='icons/onyx/lisp.png' alt='lisp.png' width='256' height='256' /> | <img src='icons/pastel/lisp.png' alt='lisp.png' width='256' height='256' /> |
+| lock.png | <img src='icons/onyx/lock.png' alt='lock.png' width='256' height='256' /> | <img src='icons/pastel/lock.png' alt='lock.png' width='256' height='256' /> |
 | logs.png | <img src='icons/onyx/logs.png' alt='logs.png' width='256' height='256' /> | <img src='icons/pastel/logs.png' alt='logs.png' width='256' height='256' /> |
 | lsp.png | <img src='icons/onyx/lsp.png' alt='lsp.png' width='256' height='256' /> | <img src='icons/pastel/lsp.png' alt='lsp.png' width='256' height='256' /> |
 | lua.png | <img src='icons/onyx/lua.png' alt='lua.png' width='256' height='256' /> | <img src='icons/pastel/lua.png' alt='lua.png' width='256' height='256' /> |
 | lunarvim.png | <img src='icons/onyx/lunarvim.png' alt='lunarvim.png' width='256' height='256' /> | <img src='icons/pastel/lunarvim.png' alt='lunarvim.png' width='256' height='256' /> |
 | markdown.png | <img src='icons/onyx/markdown.png' alt='markdown.png' width='256' height='256' /> | <img src='icons/pastel/markdown.png' alt='markdown.png' width='256' height='256' /> |
+| matlab.png | <img src='icons/onyx/matlab.png' alt='matlab.png' width='256' height='256' /> | <img src='icons/pastel/matlab.png' alt='matlab.png' width='256' height='256' /> |
 | maven.png | <img src='icons/onyx/maven.png' alt='maven.png' width='256' height='256' /> | <img src='icons/pastel/maven.png' alt='maven.png' width='256' height='256' /> |
 | neorg.png | <img src='icons/onyx/neorg.png' alt='neorg.png' width='256' height='256' /> | <img src='icons/pastel/neorg.png' alt='neorg.png' width='256' height='256' /> |
 | neovim.png | <img src='icons/onyx/neovim.png' alt='neovim.png' width='256' height='256' /> | <img src='icons/pastel/neovim.png' alt='neovim.png' width='256' height='256' /> |
 | nim.png | <img src='icons/onyx/nim.png' alt='nim.png' width='256' height='256' /> | <img src='icons/pastel/nim.png' alt='nim.png' width='256' height='256' /> |
 | nix.png | <img src='icons/onyx/nix.png' alt='nix.png' width='256' height='256' /> | <img src='icons/pastel/nix.png' alt='nix.png' width='256' height='256' /> |
 | notes.png | <img src='icons/onyx/notes.png' alt='notes.png' width='256' height='256' /> | <img src='icons/pastel/notes.png' alt='notes.png' width='256' height='256' /> |
+| npm.png | <img src='icons/onyx/npm.png' alt='npm.png' width='256' height='256' /> | <img src='icons/pastel/npm.png' alt='npm.png' width='256' height='256' /> |
 | nvchad.png | <img src='icons/onyx/nvchad.png' alt='nvchad.png' width='256' height='256' /> | <img src='icons/pastel/nvchad.png' alt='nvchad.png' width='256' height='256' /> |
 | nvidia.png | <img src='icons/onyx/nvidia.png' alt='nvidia.png' width='256' height='256' /> | <img src='icons/pastel/nvidia.png' alt='nvidia.png' width='256' height='256' /> |
 | ocaml.png | <img src='icons/onyx/ocaml.png' alt='ocaml.png' width='256' height='256' /> | <img src='icons/pastel/ocaml.png' alt='ocaml.png' width='256' height='256' /> |
@@ -84,6 +94,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | r.png | <img src='icons/onyx/r.png' alt='r.png' width='256' height='256' /> | <img src='icons/pastel/r.png' alt='r.png' width='256' height='256' /> |
 | react.png | <img src='icons/onyx/react.png' alt='react.png' width='256' height='256' /> | <img src='icons/pastel/react.png' alt='react.png' width='256' height='256' /> |
 | ruby.png | <img src='icons/onyx/ruby.png' alt='ruby.png' width='256' height='256' /> | <img src='icons/pastel/ruby.png' alt='ruby.png' width='256' height='256' /> |
+| rubygems.png | <img src='icons/onyx/rubygems.png' alt='rubygems.png' width='256' height='256' /> | <img src='icons/pastel/rubygems.png' alt='rubygems.png' width='256' height='256' /> |
 | rust.png | <img src='icons/onyx/rust.png' alt='rust.png' width='256' height='256' /> | <img src='icons/pastel/rust.png' alt='rust.png' width='256' height='256' /> |
 | scala.png | <img src='icons/onyx/scala.png' alt='scala.png' width='256' height='256' /> | <img src='icons/pastel/scala.png' alt='scala.png' width='256' height='256' /> |
 | scss.png | <img src='icons/onyx/scss.png' alt='scss.png' width='256' height='256' /> | <img src='icons/pastel/scss.png' alt='scss.png' width='256' height='256' /> |
@@ -100,6 +111,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | vim.png | <img src='icons/onyx/vim.png' alt='vim.png' width='256' height='256' /> | <img src='icons/pastel/vim.png' alt='vim.png' width='256' height='256' /> |
 | viml.png | <img src='icons/onyx/viml.png' alt='viml.png' width='256' height='256' /> | <img src='icons/pastel/viml.png' alt='viml.png' width='256' height='256' /> |
 | vue.png | <img src='icons/onyx/vue.png' alt='vue.png' width='256' height='256' /> | <img src='icons/pastel/vue.png' alt='vue.png' width='256' height='256' /> |
+| wasm.png | <img src='icons/onyx/wasm.png' alt='wasm.png' width='256' height='256' /> | <img src='icons/pastel/wasm.png' alt='wasm.png' width='256' height='256' /> |
 | xml.png | <img src='icons/onyx/xml.png' alt='xml.png' width='256' height='256' /> | <img src='icons/pastel/xml.png' alt='xml.png' width='256' height='256' /> |
 | yaml.png | <img src='icons/onyx/yaml.png' alt='yaml.png' width='256' height='256' /> | <img src='icons/pastel/yaml.png' alt='yaml.png' width='256' height='256' /> |
 | zig.png | <img src='icons/onyx/zig.png' alt='zig.png' width='256' height='256' /> | <img src='icons/pastel/zig.png' alt='zig.png' width='256' height='256' /> |
