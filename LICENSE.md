@@ -13,17 +13,25 @@ This file provides a list of the icons included in this repository, given that a
 - Crystal: https://crystal-lang.org/
 - D: https://dlang.org/
 - Dart: https://dart.dev/
+- Django: https://djangoproject.com/
 - Docker: https://docker.com/
+- EditorConfig: https://editorconfig.org/
 - Elixir: https://elixir-lang.org/
+- Elm: https://elm-lang.org/
 - Erlang: https://erlang.org/
 - F#: https://fsharp.org/
+- Fennel: https://fennel-lang.org/
+- Fish shell: https://fishshell.com/ [GPL-2.0-only](https://spdx.org/licenses/GPL-2.0-only)
 - GameMaker: https://gamemaker.io/
 - Git: https://git-scm.com/
+- Gleam: https://gleam.run/ [CC BY](https://creativecommons.org/licenses/by/4.0)
 - Go: https://go.dev/ [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Godot: https://godotengine.org/ [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - GNU: https://gnu.org/ [Free Art License](https://artlibre.org/licence/lal/en/)
 - Gradle: https://gradle.com/
+- GraphQL: https://graphql.org/
 - Groovy: https://groovy-lang.org/
+- HashiCorp: https://hashicorp.com/
 - Haskell: https://haskell.org/
 - Hyprland: https://hyprland.org/ [BSD-3-Clause](https://opensource.org/license/bsd-3-clause)
 - Julia: https://julialang.org/
@@ -40,13 +48,16 @@ This file provides a list of the icons included in this repository, given that a
 - Nim: https://nim-lang.org/
 - Nix: https://nixos.org/ [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - NPM: https://npmjs.com/ [Artistic License 2.0](https://opensource.org/licenses/Artistic-2.0)
+- Nushell: https://nushell.sh/
 - NvChad: https://nvchad.com/
 - OCaml: https://ocaml.org/
 - Odin: https://odin-lang.org/ [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- OpenGL: https://opengl.org/
 - Orgmode: https://orgmode.org/
 - Perl: https://perl.org/
 - Phoenix: https://phoenixframework.org/
 - PostCSS: https://postcss.org/
+- Prisma: https://prisma.io/
 - Python: https://python.org/
 - Quarto: https://quarto.org/
 - R: https://www.r-project.org/ [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -56,12 +67,16 @@ This file provides a list of the icons included in this repository, given that a
 - Rust: https://rust-lang.org/ [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/)
 - Scala: https://scala-lang.org/
 - Sass: https://sass-lang.com/ [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+- Squirrel: http://squirrel-lang.org/
 - Svelte: https://svelte.dev/
 - SVG: https://www.w3.org/Graphics/SVG/ [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - Swift: https://swift.org/
+- Tmux: https://tmux.github.io/
 - TOML: https://toml.io/
 - TypeScript: https://typescriptlang.org/
+- Typst: https://typst.app/
 - V: https://vlang.io/
+- Vala: https://vala.dev/ [MIT License](https://opensource.org/licenses/MIT)
 - Vim: https://vim.org/
 - Vue: https://vuejs.org/ [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - YAML: https://yaml.org/
