@@ -72,6 +72,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | keyboard.png | <img src='icons/onyx/keyboard.png' alt='keyboard.png' width='256' height='256' /> | <img src='icons/pastel/keyboard.png' alt='keyboard.png' width='256' height='256' /> |
 | kotlin.png | <img src='icons/onyx/kotlin.png' alt='kotlin.png' width='256' height='256' /> | <img src='icons/pastel/kotlin.png' alt='kotlin.png' width='256' height='256' /> |
 | latex.png | <img src='icons/onyx/latex.png' alt='latex.png' width='256' height='256' /> | <img src='icons/pastel/latex.png' alt='latex.png' width='256' height='256' /> |
+| lazyvim.png | <img src='icons/onyx/lazyvim.png' alt='lazyvim.png' width='256' height='256' /> | <img src='icons/pastel/lazyvim.png' alt='lazyvim.png' width='256' height='256' /> |
 | license.png | <img src='icons/onyx/license.png' alt='license.png' width='256' height='256' /> | <img src='icons/pastel/license.png' alt='license.png' width='256' height='256' /> |
 | lisp.png | <img src='icons/onyx/lisp.png' alt='lisp.png' width='256' height='256' /> | <img src='icons/pastel/lisp.png' alt='lisp.png' width='256' height='256' /> |
 | lock.png | <img src='icons/onyx/lock.png' alt='lock.png' width='256' height='256' /> | <img src='icons/pastel/lock.png' alt='lock.png' width='256' height='256' /> |
