@@ -22,6 +22,7 @@ This file provides a list of the icons included in this repository, given that a
 - F#: https://fsharp.org/
 - Fennel: https://fennel-lang.org/
 - Fish shell: https://fishshell.com/ [GPL-2.0-only](https://spdx.org/licenses/GPL-2.0-only)
+- Fortran: https://fortran-lang.org/
 - GameMaker: https://gamemaker.io/
 - Git: https://git-scm.com/
 - Gleam: https://gleam.run/ [CC BY](https://creativecommons.org/licenses/by/4.0)
@@ -43,6 +44,7 @@ This file provides a list of the icons included in this repository, given that a
 - LunarVim: https://lunarvim.org/
 - MATLAB: https://mathworks.com/products/matlab.html
 - Maven: https://maven.apache.org/
+- Mercurial: https://www.mercurial-scm.org/ [GPL-2.0-or-later](https://spdx.org/licenses/GPL-2.0-or-later)
 - Neorg: https://github.com/nvim-neorg/neorg [GPL-3.0](https://github.com/nvim-neorg/neorg/blob/main/LICENSE)
 - Neovim: https://neovim.io/
 - Nim: https://nim-lang.org/
@@ -61,6 +63,7 @@ This file provides a list of the icons included in this repository, given that a
 - Python: https://python.org/
 - Quarto: https://quarto.org/
 - R: https://www.r-project.org/ [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- Racket: https://racket-lang.org/
 - React: https://react.dev/
 - Ruby: https://ruby-lang.org/
 - RubyGems: https://rubygems.org/
@@ -71,6 +74,7 @@ This file provides a list of the icons included in this repository, given that a
 - Svelte: https://svelte.dev/
 - SVG: https://www.w3.org/Graphics/SVG/ [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - Swift: https://swift.org/
+- Terraform: https://terraform.io/
 - Tmux: https://tmux.github.io/
 - TOML: https://toml.io/
 - TypeScript: https://typescriptlang.org/
