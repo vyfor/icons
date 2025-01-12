@@ -39,6 +39,7 @@ This file provides a list of the icons included in this repository, given that a
 - Jupyter Notebook: https://jupyter.org/ [BSD-3-Clause](https://opensource.org/license/bsd-3-clause)
 - Kotlin: https://kotlinlang.org/
 - Latex: https://latex-project.org/
+- LazyVim: https://lazyvim.org/
 - Lisp: https://common-lisp.net/
 - Lua: https://lua.org/
 - LunarVim: https://lunarvim.org/
