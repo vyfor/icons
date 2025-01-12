@@ -46,6 +46,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | fennel.png | <img src='icons/onyx/fennel.png' alt='fennel.png' width='256' height='256' /> | <img src='icons/pastel/fennel.png' alt='fennel.png' width='256' height='256' /> |
 | fishshell.png | <img src='icons/onyx/fishshell.png' alt='fishshell.png' width='256' height='256' /> | <img src='icons/pastel/fishshell.png' alt='fishshell.png' width='256' height='256' /> |
 | folder.png | <img src='icons/onyx/folder.png' alt='folder.png' width='256' height='256' /> | <img src='icons/pastel/folder.png' alt='folder.png' width='256' height='256' /> |
+| fortran.png | <img src='icons/onyx/fortran.png' alt='fortran.png' width='256' height='256' /> | <img src='icons/pastel/fortran.png' alt='fortran.png' width='256' height='256' /> |
 | fsharp.png | <img src='icons/onyx/fsharp.png' alt='fsharp.png' width='256' height='256' /> | <img src='icons/pastel/fsharp.png' alt='fsharp.png' width='256' height='256' /> |
 | gear.png | <img src='icons/onyx/gear.png' alt='gear.png' width='256' height='256' /> | <img src='icons/pastel/gear.png' alt='gear.png' width='256' height='256' /> |
 | git.png | <img src='icons/onyx/git.png' alt='git.png' width='256' height='256' /> | <img src='icons/pastel/git.png' alt='git.png' width='256' height='256' /> |
@@ -81,6 +82,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | markdown.png | <img src='icons/onyx/markdown.png' alt='markdown.png' width='256' height='256' /> | <img src='icons/pastel/markdown.png' alt='markdown.png' width='256' height='256' /> |
 | matlab.png | <img src='icons/onyx/matlab.png' alt='matlab.png' width='256' height='256' /> | <img src='icons/pastel/matlab.png' alt='matlab.png' width='256' height='256' /> |
 | maven.png | <img src='icons/onyx/maven.png' alt='maven.png' width='256' height='256' /> | <img src='icons/pastel/maven.png' alt='maven.png' width='256' height='256' /> |
+| mercurial.png | <img src='icons/onyx/mercurial.png' alt='mercurial.png' width='256' height='256' /> | <img src='icons/pastel/mercurial.png' alt='mercurial.png' width='256' height='256' /> |
 | neorg.png | <img src='icons/onyx/neorg.png' alt='neorg.png' width='256' height='256' /> | <img src='icons/pastel/neorg.png' alt='neorg.png' width='256' height='256' /> |
 | neovim.png | <img src='icons/onyx/neovim.png' alt='neovim.png' width='256' height='256' /> | <img src='icons/pastel/neovim.png' alt='neovim.png' width='256' height='256' /> |
 | nim.png | <img src='icons/onyx/nim.png' alt='nim.png' width='256' height='256' /> | <img src='icons/pastel/nim.png' alt='nim.png' width='256' height='256' /> |
@@ -106,6 +108,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | python.png | <img src='icons/onyx/python.png' alt='python.png' width='256' height='256' /> | <img src='icons/pastel/python.png' alt='python.png' width='256' height='256' /> |
 | quarto.png | <img src='icons/onyx/quarto.png' alt='quarto.png' width='256' height='256' /> | <img src='icons/pastel/quarto.png' alt='quarto.png' width='256' height='256' /> |
 | r.png | <img src='icons/onyx/r.png' alt='r.png' width='256' height='256' /> | <img src='icons/pastel/r.png' alt='r.png' width='256' height='256' /> |
+| racket.png | <img src='icons/onyx/racket.png' alt='racket.png' width='256' height='256' /> | <img src='icons/pastel/racket.png' alt='racket.png' width='256' height='256' /> |
 | react.png | <img src='icons/onyx/react.png' alt='react.png' width='256' height='256' /> | <img src='icons/pastel/react.png' alt='react.png' width='256' height='256' /> |
 | ruby.png | <img src='icons/onyx/ruby.png' alt='ruby.png' width='256' height='256' /> | <img src='icons/pastel/ruby.png' alt='ruby.png' width='256' height='256' /> |
 | rubygems.png | <img src='icons/onyx/rubygems.png' alt='rubygems.png' width='256' height='256' /> | <img src='icons/pastel/rubygems.png' alt='rubygems.png' width='256' height='256' /> |
@@ -119,6 +122,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | svg.png | <img src='icons/onyx/svg.png' alt='svg.png' width='256' height='256' /> | <img src='icons/pastel/svg.png' alt='svg.png' width='256' height='256' /> |
 | swift.png | <img src='icons/onyx/swift.png' alt='swift.png' width='256' height='256' /> | <img src='icons/pastel/swift.png' alt='swift.png' width='256' height='256' /> |
 | telescope.png | <img src='icons/onyx/telescope.png' alt='telescope.png' width='256' height='256' /> | <img src='icons/pastel/telescope.png' alt='telescope.png' width='256' height='256' /> |
+| terraform.png | <img src='icons/onyx/terraform.png' alt='terraform.png' width='256' height='256' /> | <img src='icons/pastel/terraform.png' alt='terraform.png' width='256' height='256' /> |
 | tests.png | <img src='icons/onyx/tests.png' alt='tests.png' width='256' height='256' /> | <img src='icons/pastel/tests.png' alt='tests.png' width='256' height='256' /> |
 | text.png | <img src='icons/onyx/text.png' alt='text.png' width='256' height='256' /> | <img src='icons/pastel/text.png' alt='text.png' width='256' height='256' /> |
 | tmux.png | <img src='icons/onyx/tmux.png' alt='tmux.png' width='256' height='256' /> | <img src='icons/pastel/tmux.png' alt='tmux.png' width='256' height='256' /> |
