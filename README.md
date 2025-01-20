@@ -61,6 +61,7 @@ If you have any questions or inquiries regarding the these assets and their lice
 | hashicorp.png | <img src='icons/onyx/hashicorp.png' alt='hashicorp.png' width='256' height='256' /> | <img src='icons/pastel/hashicorp.png' alt='hashicorp.png' width='256' height='256' /> |
 | haskell.png | <img src='icons/onyx/haskell.png' alt='haskell.png' width='256' height='256' /> | <img src='icons/pastel/haskell.png' alt='haskell.png' width='256' height='256' /> |
 | haxe.png | <img src='icons/onyx/haxe.png' alt='haxe.png' width='256' height='256' /> | <img src='icons/pastel/haxe.png' alt='haxe.png' width='256' height='256' /> |
+| health.png | <img src='icons/onyx/health.png' alt='health.png' width='256' height='256' /> | <img src='icons/pastel/health.png' alt='health.png' width='256' height='256' /> |
 | html.png | <img src='icons/onyx/html.png' alt='html.png' width='256' height='256' /> | <img src='icons/pastel/html.png' alt='html.png' width='256' height='256' /> |
 | hyprland.png | <img src='icons/onyx/hyprland.png' alt='hyprland.png' width='256' height='256' /> | <img src='icons/pastel/hyprland.png' alt='hyprland.png' width='256' height='256' /> |
 | idle.png | <img src='icons/onyx/idle.png' alt='idle.png' width='256' height='256' /> | <img src='icons/pastel/idle.png' alt='idle.png' width='256' height='256' /> |
