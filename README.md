@@ -11,6 +11,10 @@ This repository contains the assets currently used in my project, [cord.nvim](ht
 
 If you have any questions or inquiries regarding the these assets and their licensing, feel free to reach out.
 
+### Contributing
+
+These icons are generated using special scripts that handle the necessary adjustments. If you'd like to request a new icon, please open an issue. Although not necessary, SVG version of the icon along with its licensing details would be of great help.
+
 <details id="showcase"><summary>Showcase</summary>
 
 | Icon | onyx | pastel |
