@@ -1,19 +1,22 @@
-### Asset Repository
+## Asset Repository  
 
-This repository contains the assets currently used in my project, [cord.nvim](https://github.com/vyfor/cord.nvim). While I do not own the original icons, I have made slight modifications to adapt them for use in the project.
+This repository contains the assets currently used in my project, [cord.nvim](https://github.com/vyfor/cord.nvim). While I do not own the original icons, I have modified them to better fit the project's needs.  
 
-#### Licensing Information:
-- **Base Icons**:  
-  The base icons are sourced from third-party creators and are subject to their respective licenses. For detailed information, please refer to the [LICENSE.md](LICENSE.md) file.
-  
-- **Modifications**:  
-  The modifications to these assets are licensed under the same terms as the original assets. You must mention this repository when using any of my modified assets.
+### Licensing & Attribution  
 
-If you have any questions or inquiries regarding the these assets and their licensing, feel free to reach out.
+- **Base Icons License**:  
+  The original icons are sourced from third-party creators and are subject to their respective licenses. For more details, please refer to the [LICENSE.md](LICENSE.md) file located in the same directory.
 
-### Contributing
+- **Attribution**:  
+  If you use any of the modified assets from this repository, you **must** provide attribution by linking either to this repository or my GitHub profile: 
+  - Repository: [vyfor/icons](https://github.com/vyfor/icons)  
+  - GitHub: [@vyfor](https://github.com/vyfor) 
 
-These icons are generated using special scripts that handle the necessary adjustments. If you'd like to request a new icon, please open an issue. Although not necessary, SVG version of the icon along with its licensing details would be of great help.
+If you have any questions regarding these assets or their licensing, feel free to reach out. 
+
+## Contributing  
+
+These icons are generated using scripts that handle all necessary adjustments. If you'd like to request a new icon, please open an issue. PRs are unlikely to be considered. Although not necessary, providing an SVG version of the requested icon along with its licensing details would be greatly appreciated.
 
 <details id="showcase"><summary>Showcase</summary>
 
