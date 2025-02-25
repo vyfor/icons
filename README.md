@@ -88,6 +88,7 @@ These icons are generated using scripts that handle all necessary adjustments. I
 | lsp.png | <img src='icons/onyx/lsp.png' alt='lsp.png' width='256' height='256' /> | <img src='icons/pastel/lsp.png' alt='lsp.png' width='256' height='256' /> |
 | lua.png | <img src='icons/onyx/lua.png' alt='lua.png' width='256' height='256' /> | <img src='icons/pastel/lua.png' alt='lua.png' width='256' height='256' /> |
 | lunarvim.png | <img src='icons/onyx/lunarvim.png' alt='lunarvim.png' width='256' height='256' /> | <img src='icons/pastel/lunarvim.png' alt='lunarvim.png' width='256' height='256' /> |
+| mail.png | <img src='icons/onyx/mail.png' alt='mail.png' width='256' height='256' /> | <img src='icons/pastel/mail.png' alt='mail.png' width='256' height='256' /> |
 | markdown.png | <img src='icons/onyx/markdown.png' alt='markdown.png' width='256' height='256' /> | <img src='icons/pastel/markdown.png' alt='markdown.png' width='256' height='256' /> |
 | matlab.png | <img src='icons/onyx/matlab.png' alt='matlab.png' width='256' height='256' /> | <img src='icons/pastel/matlab.png' alt='matlab.png' width='256' height='256' /> |
 | maven.png | <img src='icons/onyx/maven.png' alt='maven.png' width='256' height='256' /> | <img src='icons/pastel/maven.png' alt='maven.png' width='256' height='256' /> |
