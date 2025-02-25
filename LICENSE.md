@@ -104,6 +104,7 @@ This file provides a list of the icons included in this repository, given that a
 - java.png: https://www.svgrepo.com/svg/521289/java-16 [MIT License](https://opensource.org/licenses/MIT)
 - lock.png https://www.svgrepo.com/svg/532323/lock-alt [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
 - logs.png https://www.svgrepo.com/svg/414461/scroll [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
+- mail.png: https://www.svgrepo.com/svg/381196/email-mail-message-letter-envelope [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
 - picture.png: https://www.svgrepo.com/svg/486982/picture [MIT License](https://opensource.org/licenses/MIT)
 - scala.png: https://github.com/vscode-icons/vscode-icons [MIT License](https://opensource.org/licenses/MIT)
 - ruby.png: https://www.svgrepo.com/svg/508940/ruby [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
