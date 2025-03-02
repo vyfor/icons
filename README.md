@@ -149,3 +149,41 @@ These icons are generated using scripts that handle all necessary adjustments. I
 | yaml.png | <img src='icons/catppuccin/yaml.png' alt='yaml.png' width='128' height='128' /> | <img src='icons/material/yaml.png' alt='yaml.png' width='128' height='128' /> | <img src='icons/onyx/yaml.png' alt='yaml.png' width='128' height='128' /> | <img src='icons/pastel/yaml.png' alt='yaml.png' width='128' height='128' /> |
 | zig.png | <img src='icons/catppuccin/zig.png' alt='zig.png' width='128' height='128' /> | <img src='icons/material/zig.png' alt='zig.png' width='128' height='128' /> | <img src='icons/onyx/zig.png' alt='zig.png' width='128' height='128' /> | <img src='icons/pastel/zig.png' alt='zig.png' width='128' height='128' /> |
 </details>
+
+<!-- ICON_SHOWCASE -->
+<details id=showcase><summary>Showcase</summary>
+<details><summary><b>Atom</b></summary>
+<details><summary>Accent</summary>
+<img src='.github/showcase/atom-accent.png' alt='atom-accent' />
+</details>
+<details><summary>Dark</summary>
+<img src='.github/showcase/atom-dark.png' alt='atom-dark' />
+</details>
+<details><summary>Light</summary>
+<img src='.github/showcase/atom-light.png' alt='atom-light' />
+</details>
+</details>
+<details><summary><b>Catppuccin</b></summary>
+<details><summary>Accent</summary>
+<img src='.github/showcase/catppuccin-accent.png' alt='catppuccin-accent' />
+</details>
+<details><summary>Dark</summary>
+<img src='.github/showcase/catppuccin-dark.png' alt='catppuccin-dark' />
+</details>
+<details><summary>Light</summary>
+<img src='.github/showcase/catppuccin-light.png' alt='catppuccin-light' />
+</details>
+</details>
+<details><summary><b>Default</b></summary>
+<details><summary>Accent</summary>
+<img src='.github/showcase/default-accent.png' alt='default-accent' />
+</details>
+<details><summary>Dark</summary>
+<img src='.github/showcase/default-dark.png' alt='default-dark' />
+</details>
+<details><summary>Light</summary>
+<img src='.github/showcase/default-light.png' alt='default-light' />
+</details>
+</details>
+</details>
+<!-- END_ICON_SHOWCASE -->
