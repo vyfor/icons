@@ -20,8 +20,9 @@ These icons are generated using scripts that handle all necessary adjustments. I
 
 
 <!-- ICON_SHOWCASE -->
+
 ## Showcase
-<details><summary><b>Atom</b></summary>
+### Atom
 <details><summary>Accent</summary>
 <img src='.github/showcase/atom-accent.png' alt='atom-accent' />
 </details>
@@ -31,8 +32,7 @@ These icons are generated using scripts that handle all necessary adjustments. I
 <details><summary>Light</summary>
 <img src='.github/showcase/atom-light.png' alt='atom-light' />
 </details>
-</details>
-<details><summary><b>Catppuccin</b></summary>
+### Catppuccin
 <details><summary>Accent</summary>
 <img src='.github/showcase/catppuccin-accent.png' alt='catppuccin-accent' />
 </details>
@@ -42,8 +42,7 @@ These icons are generated using scripts that handle all necessary adjustments. I
 <details><summary>Light</summary>
 <img src='.github/showcase/catppuccin-light.png' alt='catppuccin-light' />
 </details>
-</details>
-<details><summary><b>Default</b></summary>
+### Default
 <details><summary>Accent</summary>
 <img src='.github/showcase/default-accent.png' alt='default-accent' />
 </details>
@@ -53,5 +52,5 @@ These icons are generated using scripts that handle all necessary adjustments. I
 <details><summary>Light</summary>
 <img src='.github/showcase/default-light.png' alt='default-light' />
 </details>
-</details>
+
 <!-- END_ICON_SHOWCASE -->
