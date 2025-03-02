@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - master
+      - restructure
     paths:
       - icons/**
 
@@ -13,60 +14,71 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Install Dependencies
+        run: sudo apt-get install -y imagemagick
+
+      - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Generate Markdown Table
+      - name: Generate Sprite Sheets & Markdown
         id: generate_table
         run: |
+          echo "<details id="showcase"><summary>Showcase</summary>" >> icons_table.md
+
+          exclude_icons=("astronvim.png" "neovim.png" "nvchad.png" "lazyvim.png" "lunarvim.png" "vim.png")
+
+          mkdir -p .github/showcase
+
           themes=($(find icons -mindepth 1 -maxdepth 1 -type d | sort))
-          theme_names=($(basename -a "${themes[@]}"))
-
-          echo "Generating Markdown Table..."
-          echo "<details id=\"showcase\"><summary>Showcase</summary>" > icons_table.md
-          echo "" >> icons_table.md
           
-          echo -n "| Icon " >> icons_table.md
-          for theme in "${theme_names[@]}"; do
-            echo -n "| ${theme} " >> icons_table.md
-          done
-          echo "|" >> icons_table.md
+          for theme in "${themes[@]}"; do
+            theme_name=$(basename "$theme")
+            echo "<details><summary><b>${theme_name^}</b></summary>" >> icons_table.md
+            
+            flavors=($(find "$theme" -mindepth 1 -maxdepth 1 -type d | sort))
+            
+            for flavor in "${flavors[@]}"; do
+              flavor_name=$(basename "$flavor")
+              echo "<details><summary>${flavor_name^}</summary>" >> icons_table.md
 
-          echo -n "|------" >> icons_table.md
-          for _ in "${theme_names[@]}"; do
-            echo -n "|---------" >> icons_table.md
-          done
-          echo "|" >> icons_table.md
+              output_sprite=".github/showcase/${theme_name}-${flavor_name}.png"
 
-          icons_dir="${themes[0]}"
-          for icon_path in "${icons_dir}"/*; do
-            icon_name=$(basename "$icon_path")
-            echo -n "| ${icon_name} " >> icons_table.md
+              # Use find with exclusions
+              icon_files=$(find "$flavor" -type f -name "*.png" \
+                ! -name "astronvim.png" \
+                ! -name "neovim.png" \
+                ! -name "nvchad.png" \
+                ! -name "lazyvim.png" \
+                ! -name "lunarvim.png" \
+                ! -name "vim.png")
 
-            for theme in "${themes[@]}"; do
-              echo -n "| <img src='${theme}/${icon_name}' alt='${icon_name}' width='128' height='128' /> " >> icons_table.md
+              if [[ -n "$icon_files" ]]; then
+                montage $icon_files -background none -geometry 64x64+2+2 -tile 5x "$output_sprite"
+                echo "<img src='${output_sprite}' alt='${theme_name}-${flavor_name}' />" >> icons_table.md
+              fi
+
+              echo "</details>" >> icons_table.md
             done
-            echo "|" >> icons_table.md
+            
+            echo "</details>" >> icons_table.md
           done
 
           echo "</details>" >> icons_table.md
 
       - name: Update README.md
         run: |
-          if grep -q "<details id=\"showcase\"><summary>Showcase</summary>" README.md; then
-            echo "Updating existing showcase..."
-            sed -i '/<details id=\"showcase\"><summary>Showcase<\/summary>/,/<\/details>/c\REPLACEMENT_MARKER' README.md
-            sed -i '/REPLACEMENT_MARKER/r icons_table.md' README.md
-            sed -i '/REPLACEMENT_MARKER/d' README.md
+          if grep -q "<!-- ICON_SHOWCASE -->" README.md; then
+            sed -i '/<!-- ICON_SHOWCASE -->/,/<!-- END_ICON_SHOWCASE -->/c\<!-- ICON_SHOWCASE -->\n' README.md
+            cat icons_table.md >> README.md
+            echo -e "\n<!-- END_ICON_SHOWCASE -->" >> README.md
           else
-            echo "Adding new showcase..."
-            echo -e "\n$(cat icons_table.md)" >> README.md
+            echo -e "\n<!-- ICON_SHOWCASE -->\n$(cat icons_table.md)\n<!-- END_ICON_SHOWCASE -->" >> README.md
           fi
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md icons/*.png
           git commit -m "docs(readme): update icon showcase" || (echo "Nothing to commit" && exit 0)
           git push
