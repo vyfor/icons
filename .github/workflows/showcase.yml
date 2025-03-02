@@ -29,13 +29,13 @@ jobs:
           mkdir -p .github/showcase
 
           themes=($(find icons -mindepth 1 -maxdepth 1 -type d | sort))
-          
+
           for theme in "${themes[@]}"; do
             theme_name=$(basename "$theme")
-            echo "<details><summary><b>${theme_name^}</b></summary>" >> icons_table.md
-            
+            echo "### ${theme_name^}" >> icons_table.md
+
             flavors=($(find "$theme" -mindepth 1 -maxdepth 1 -type d | sort))
-            
+
             for flavor in "${flavors[@]}"; do
               flavor_name=$(basename "$flavor")
               echo "<details><summary>${flavor_name^}</summary>" >> icons_table.md
@@ -58,8 +58,6 @@ jobs:
 
               echo "</details>" >> icons_table.md
             done
-            
-            echo "</details>" >> icons_table.md
           done
 
       - name: Update README.md
