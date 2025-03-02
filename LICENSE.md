@@ -110,7 +110,7 @@ This file provides a list of the icons included in this repository, given that a
 - ruby.png: https://www.svgrepo.com/svg/508940/ruby [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
 - xml.png: https://github.com/vscode-icons/vscode-icons [MIT License](https://opensource.org/licenses/MIT)
 
-- /catppuccin: https://github.com/catppuccin/vscode-icons [MIT License](https://opensource.org/licenses/MIT)
-  - Missing icons are complemented with icons from the `pastel` theme.
-- /material: https://github.com/material-extensions/vscode-material-icon-theme [MIT License](https://opensource.org/licenses/MIT)
-  - Missing icons are complemented with icons from the `pastel` theme.
+- /catppuccin: https://github.com/thang-nm/Catppuccin-Perfect-Icons https://github.com/catppuccin/vscode-icons [MIT License](https://opensource.org/licenses/MIT)
+  - Missing icons are complemented with icons from the `default` theme.
+- /material: https://github.com/AtomMaterialUI/iconGenerator https://github.com/material-extensions/vscode-material-icon-theme [MIT License](https://opensource.org/licenses/MIT)
+  - Missing icons are complemented with icons from the `default` and `atom` themes.
