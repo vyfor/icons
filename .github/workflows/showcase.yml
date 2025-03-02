@@ -22,7 +22,7 @@ jobs:
       - name: Generate Sprite Sheets & Markdown
         id: generate_table
         run: |
-          echo "## Showcase" >> icons_table.md
+          echo "<h2 id=\"showcase\"> 🎨 Showcase</h2>" > icons_table.md
 
           exclude_icons=("astronvim.png" "neovim.png" "nvchad.png" "lazyvim.png" "lunarvim.png" "vim.png")
 
@@ -32,7 +32,7 @@ jobs:
 
           for theme in "${themes[@]}"; do
             theme_name=$(basename "$theme")
-            echo "### ${theme_name^}" >> icons_table.md
+            echo "<h3>${theme_name^}</h3>" >> icons_table.md
 
             flavors=($(find "$theme" -mindepth 1 -maxdepth 1 -type d | sort))
 
