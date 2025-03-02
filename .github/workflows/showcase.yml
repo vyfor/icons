@@ -28,7 +28,7 @@ jobs:
 
           mkdir -p .github/showcase
 
-          themes=("icons/default" $(find icons -mindepth 1 -maxdepth 1 -type d ! -name "icons/default" | sort))
+          themes=("icons/default" $(find icons -mindepth 1 -maxdepth 1 -type d | grep -v "icons/default" | sort))
 
           for theme in "${themes[@]}"; do
             theme_name=$(basename "$theme")
