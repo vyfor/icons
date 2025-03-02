@@ -28,11 +28,11 @@ jobs:
 
           mkdir -p .github/showcase
 
-          themes=($(find icons -mindepth 1 -maxdepth 1 -type d | sort))
+          themes=("icons/default" $(find icons -mindepth 1 -maxdepth 1 -type d ! -name "icons/default" | sort))
 
           for theme in "${themes[@]}"; do
             theme_name=$(basename "$theme")
-            echo "<h3>${theme_name^}</h3>" >> icons_table.md
+            echo "<h3> • ${theme_name^}</h3>" >> icons_table.md
 
             flavors=($(find "$theme" -mindepth 1 -maxdepth 1 -type d | sort))
 
@@ -42,14 +42,13 @@ jobs:
 
               output_sprite=".github/showcase/${theme_name}-${flavor_name}.png"
 
-              # Use find with exclusions
               icon_files=$(find "$flavor" -type f -name "*.png" \
                 ! -name "astronvim.png" \
                 ! -name "neovim.png" \
                 ! -name "nvchad.png" \
                 ! -name "lazyvim.png" \
                 ! -name "lunarvim.png" \
-                ! -name "vim.png")
+                ! -name "vim.png" | sort)
 
               if [[ -n "$icon_files" ]]; then
                 montage $icon_files -background none -geometry 64x64+2+2 -tile 5x "$output_sprite"
