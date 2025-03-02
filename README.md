@@ -18,3 +18,40 @@ If you have any questions regarding these assets or their licensing, feel free t
 
 These icons are generated using scripts that handle all necessary adjustments. If you'd like to request a new icon, please open an issue. PRs are unlikely to be considered. Although not necessary, providing an SVG version of the requested icon along with its licensing details would be greatly appreciated.
 
+
+<!-- ICON_SHOWCASE -->
+## Showcase
+<details><summary><b>Atom</b></summary>
+<details><summary>Accent</summary>
+<img src='.github/showcase/atom-accent.png' alt='atom-accent' />
+</details>
+<details><summary>Dark</summary>
+<img src='.github/showcase/atom-dark.png' alt='atom-dark' />
+</details>
+<details><summary>Light</summary>
+<img src='.github/showcase/atom-light.png' alt='atom-light' />
+</details>
+</details>
+<details><summary><b>Catppuccin</b></summary>
+<details><summary>Accent</summary>
+<img src='.github/showcase/catppuccin-accent.png' alt='catppuccin-accent' />
+</details>
+<details><summary>Dark</summary>
+<img src='.github/showcase/catppuccin-dark.png' alt='catppuccin-dark' />
+</details>
+<details><summary>Light</summary>
+<img src='.github/showcase/catppuccin-light.png' alt='catppuccin-light' />
+</details>
+</details>
+<details><summary><b>Default</b></summary>
+<details><summary>Accent</summary>
+<img src='.github/showcase/default-accent.png' alt='default-accent' />
+</details>
+<details><summary>Dark</summary>
+<img src='.github/showcase/default-dark.png' alt='default-dark' />
+</details>
+<details><summary>Light</summary>
+<img src='.github/showcase/default-light.png' alt='default-light' />
+</details>
+</details>
+<!-- END_ICON_SHOWCASE -->
