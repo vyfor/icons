@@ -22,7 +22,17 @@ These icons are generated using scripts that handle all necessary adjustments. I
 <!-- ICON_SHOWCASE -->
 
 <h2 id="showcase"> 🎨 Showcase</h2>
-<h3>Atom</h3>
+<h3> • Default</h3>
+<details><summary>Accent</summary>
+<img src='.github/showcase/default-accent.png' alt='default-accent' />
+</details>
+<details><summary>Dark</summary>
+<img src='.github/showcase/default-dark.png' alt='default-dark' />
+</details>
+<details><summary>Light</summary>
+<img src='.github/showcase/default-light.png' alt='default-light' />
+</details>
+<h3> • Atom</h3>
 <details><summary>Accent</summary>
 <img src='.github/showcase/atom-accent.png' alt='atom-accent' />
 </details>
@@ -32,7 +42,7 @@ These icons are generated using scripts that handle all necessary adjustments. I
 <details><summary>Light</summary>
 <img src='.github/showcase/atom-light.png' alt='atom-light' />
 </details>
-<h3>Catppuccin</h3>
+<h3> • Catppuccin</h3>
 <details><summary>Accent</summary>
 <img src='.github/showcase/catppuccin-accent.png' alt='catppuccin-accent' />
 </details>
@@ -42,7 +52,7 @@ These icons are generated using scripts that handle all necessary adjustments. I
 <details><summary>Light</summary>
 <img src='.github/showcase/catppuccin-light.png' alt='catppuccin-light' />
 </details>
-<h3>Default</h3>
+<h3> • Default</h3>
 <details><summary>Accent</summary>
 <img src='.github/showcase/default-accent.png' alt='default-accent' />
 </details>
