@@ -43,6 +43,7 @@ This file provides a list of the icons included in this repository, given that a
 - HashiCorp: https://hashicorp.com/
 - Haskell: https://haskell.org/
 - Hyprland: https://hyprland.org/ [BSD-3-Clause](https://opensource.org/license/bsd-3-clause)
+- Jule: https://jule.dev/ [BSD-3-Clause](https://opensource.org/license/bsd-3-clause)
 - Julia: https://julialang.org/
 - Jupyter Notebook: https://jupyter.org/ [BSD-3-Clause](https://opensource.org/license/bsd-3-clause)
 - Kotlin: https://kotlinlang.org/
