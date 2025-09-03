@@ -59,6 +59,7 @@ This file provides a list of the icons included in this repository, given that a
 - Mercurial: https://www.mercurial-scm.org/ [GPL-2.0-or-later](https://spdx.org/licenses/GPL-2.0-or-later)
 - Neorg: https://github.com/nvim-neorg/neorg [GPL-3.0](https://github.com/nvim-neorg/neorg/blob/main/LICENSE)
 - Neovim: https://neovim.io/
+- NestJS: https://nestjs.com/
 - Nim: https://nim-lang.org/
 - Nix: https://nixos.org/ [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - NPM: https://npmjs.com/ [Artistic License 2.0](https://opensource.org/licenses/Artistic-2.0)
