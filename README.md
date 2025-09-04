@@ -54,5 +54,15 @@ These icons are generated using scripts that handle all necessary adjustments. I
 <details><summary>Light</summary>
 <img src='.github/showcase/catppuccin-light.png' alt='catppuccin-light' />
 </details>
+<h3> • Classic</h3>
+<details><summary>Accent</summary>
+<img src='.github/showcase/classic-accent.png' alt='classic-accent' />
+</details>
+<details><summary>Dark</summary>
+<img src='.github/showcase/classic-dark.png' alt='classic-dark' />
+</details>
+<details><summary>Light</summary>
+<img src='.github/showcase/classic-light.png' alt='classic-light' />
+</details>
 
 <!-- END_ICON_SHOWCASE -->
