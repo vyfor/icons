@@ -1,5 +1,31 @@
 This file provides a list of the icons included in this repository, given that a link to the license or attribution is required. Should you notice any inaccuracies or omissions in the license or attribution information, please do not hesitate to inform me.
 
+## Icon and Glyph Licensing
+
+This project includes PNG icons (/default) derived from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
+Nerd Fonts aggregates and patches icons from multiple upstream projects.
+Those icons retain their **original licenses**, as listed below.
+
+### Glyph/Icon Sources
+
+| Project                         | License        |
+|---------------------------------|----------------|
+| Codicons                        | CC BY 4.0      |
+| Devicons                        | MIT            |
+| Font Awesome                    | CC BY 4.0      |
+| Font Awesome Extension          | MIT            |
+| Font Logos                      | Unlicensed     |
+| IEC Power Symbols               | MIT            |
+| Material Design Icons           | Apache 2.0     |
+| Original Source (Seti-UI mod)   | MIT            |
+| Octicons                        | MIT            |
+| Pomicons                        | SIL OFL 1.1    |
+| Powerline Extra Symbols         | MIT            |
+| Powerline Symbols               | Free License   |
+| Weather Icons                   | SIL OFL 1.1    |
+
+For detailed licensing information of Nerd Fonts and its upstream projects, see the [Nerd Fonts License Audit](https://github.com/ryanoasis/nerd-fonts/blob/-/license-audit.md).
+
 - /atom: https://github.com/AtomMaterialUI/iconGenerator https://github.com/material-extensions/vscode-material-icon-theme [MIT License](https://opensource.org/licenses/MIT)
   - Missing icons are complemented with icons from the `default` theme.
 - /catppuccin: https://github.com/thang-nm/Catppuccin-Perfect-Icons https://github.com/catppuccin/vscode-icons [MIT License](https://opensource.org/licenses/MIT)
