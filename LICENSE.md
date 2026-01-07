@@ -8,29 +8,32 @@ Those icons retain their **original licenses**, as listed below.
 
 ### Glyph/Icon Sources
 
-| Project                         | License        |
-|---------------------------------|----------------|
-| Codicons                        | CC BY 4.0      |
-| Devicons                        | MIT            |
-| Font Awesome                    | CC BY 4.0      |
-| Font Awesome Extension          | MIT            |
-| Font Logos                      | Unlicensed     |
-| IEC Power Symbols               | MIT            |
-| Material Design Icons           | Apache 2.0     |
-| Original Source (Seti-UI mod)   | MIT            |
-| Octicons                        | MIT            |
-| Pomicons                        | SIL OFL 1.1    |
-| Powerline Extra Symbols         | MIT            |
-| Powerline Symbols               | Free License   |
-| Weather Icons                   | SIL OFL 1.1    |
+| Project                       | License      |
+|-------------------------------|--------------|
+| Codicons                      | CC BY 4.0    |
+| Devicons                      | MIT          |
+| Font Awesome                  | CC BY 4.0    |
+| Font Awesome Extension        | MIT          |
+| Font Logos                    | Unlicensed   |
+| IEC Power Symbols             | MIT          |
+| Material Design Icons         | Apache 2.0   |
+| Original Source (Seti-UI mod) | MIT          |
+| Octicons                      | MIT          |
+| Pomicons                      | SIL OFL 1.1  |
+| Powerline Extra Symbols       | MIT          |
+| Powerline Symbols             | Free License |
+| Weather Icons                 | SIL OFL 1.1  |
 
 For detailed licensing information of Nerd Fonts and its upstream projects, see the [Nerd Fonts License Audit](https://github.com/ryanoasis/nerd-fonts/blob/-/license-audit.md).
 
-- /atom: https://github.com/AtomMaterialUI/iconGenerator https://github.com/material-extensions/vscode-material-icon-theme [MIT License](https://opensource.org/licenses/MIT)
-  - Missing icons are complemented with icons from the `default` theme.
-- /catppuccin: https://github.com/thang-nm/Catppuccin-Perfect-Icons https://github.com/catppuccin/vscode-icons [MIT License](https://opensource.org/licenses/MIT)
-  - Missing icons are complemented with icons from the `default` theme.
+- /atom: https://github.com/AtomMaterialUI/iconGenerator https://github.com/material-extensions/vscode-material-icon-theme • [MIT License](https://opensource.org/licenses/MIT)
+- /catppuccin: https://github.com/thang-nm/Catppuccin-Perfect-Icons https://github.com/catppuccin/vscode-icons • [MIT License](https://opensource.org/licenses/MIT)
+- /minecraft: https://github.com/FuncFusion/mc-dp-icons • [MIT License](https://opensource.org/licenses/MIT)
 
+> [!NOTE]
+> Missing icons are complemented with icons from the `default` theme.
+
+<br/>
 
 - Ada: https://ada-lang.io/
 - Android: https://android.com/
