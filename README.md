@@ -34,7 +34,7 @@ These icons are generated using scripts that handle all necessary adjustments. I
 <details><summary>Light</summary>
 <img src='.github/showcase/default-light.png' alt='default-light' />
 </details>
-<h3> • Atom</h3>
+<h3> • <a href="https://github.com/AtomMaterialUI/a-file-icon-vscode/">Atom</a></h3>
 <details><summary>Accent</summary>
 <img src='.github/showcase/atom-accent.png' alt='atom-accent' />
 </details>
@@ -44,7 +44,7 @@ These icons are generated using scripts that handle all necessary adjustments. I
 <details><summary>Light</summary>
 <img src='.github/showcase/atom-light.png' alt='atom-light' />
 </details>
-<h3> • Catppuccin</h3>
+<h3> • <a href="https://github.com/catppuccin/vscode-icons">Catppuccin</a></h3>
 <details><summary>Accent</summary>
 <img src='.github/showcase/catppuccin-accent.png' alt='catppuccin-accent' />
 </details>
@@ -63,6 +63,16 @@ These icons are generated using scripts that handle all necessary adjustments. I
 </details>
 <details><summary>Light</summary>
 <img src='.github/showcase/classic-light.png' alt='classic-light' />
+</details>
+<h3> • <a href="https://github.com/FuncFusion/mc-dp-icons">Minecraft</a></h3>
+<details><summary>Accent</summary>
+<img src='.github/showcase/minecraft-accent.png' alt='minecraft-accent' />
+</details>
+<details><summary>Dark</summary>
+<img src='.github/showcase/minecraft-dark.png' alt='minecraft-dark' />
+</details>
+<details><summary>Light</summary>
+<img src='.github/showcase/minecraft-light.png' alt='minecraft-light' />
 </details>
 
 <!-- END_ICON_SHOWCASE -->
