@@ -34,7 +34,29 @@ jobs:
 
           for theme in "${themes[@]}"; do
             theme_name=$(basename "$theme")
-            echo "<h3> • ${theme_name^}</h3>" >> icons_table.md
+            
+            case "${theme_name,,}" in
+              "catppuccin")
+                url="https://github.com/catppuccin/vscode-icons"
+                ;;
+              "atom")
+                url="https://github.com/AtomMaterialUI/a-file-icon-vscode/"
+                ;;
+              "minecraft")
+                url="https://github.com/FuncFusion/mc-dp-icons"
+                ;;
+              *)
+                url=""
+                ;;
+            esac
+
+            if [[ -n "$url" ]]; then
+              display_title="<a href=\"$url\">${theme_name^}</a>"
+            else
+              display_title="${theme_name^}"
+            fi
+
+            echo "<h3> • $display_title</h3>" >> icons_table.md
 
             flavors=($(find "$theme" -mindepth 1 -maxdepth 1 -type d | sort))
 
