@@ -151,6 +151,7 @@ For detailed licensing information of Nerd Fonts and its upstream projects, see 
 - mail.png: https://www.svgrepo.com/svg/381196/email-mail-message-letter-envelope [CC Attribution](https://www.svgrepo.com/page/licensing/#CC%20Attribution)
 - make: https://www.svgrepo.com/svg/493682/hammer-tool-settings-fix-repair [Apache License](https://www.apache.org/licenses/LICENSE-2.0)
 - picture.png: https://www.svgrepo.com/svg/486982/picture [MIT License](https://opensource.org/licenses/MIT)
+- plugin.png: https://www.svgrepo.com/svg/457068/plugin [MIT License](https://opensource.org/licenses/MIT)
 - scala.png: https://github.com/vscode-icons/vscode-icons [MIT License](https://opensource.org/licenses/MIT)
 - settings.png: https://www.svgrepo.com/svg/340999/settings [Apache License](https://www.apache.org/licenses/LICENSE-2.0)
 - shader.png: https://www.svgrepo.com/svg/510283/triangle-tool [MIT License](https://opensource.org/licenses/MIT)
