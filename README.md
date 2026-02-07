@@ -74,5 +74,15 @@ These icons are generated using scripts that handle all necessary adjustments. I
 <details><summary>Light</summary>
 <img src='.github/showcase/minecraft-light.png' alt='minecraft-light' />
 </details>
+<h3> • Void</h3>
+<details><summary>Accent</summary>
+<img src='.github/showcase/void-accent.png' alt='void-accent' />
+</details>
+<details><summary>Dark</summary>
+<img src='.github/showcase/void-dark.png' alt='void-dark' />
+</details>
+<details><summary>Light</summary>
+<img src='.github/showcase/void-light.png' alt='void-light' />
+</details>
 
 <!-- END_ICON_SHOWCASE -->
